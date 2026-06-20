@@ -1,0 +1,503 @@
+[
+    {
+        "id": 2,
+        "audio": null,
+        "type": "cloze_text_truefalse",
+        "truefalse": [
+            {"id": 1, "question": "Tatiana can remember 75 of 100 names and faces after 15 minutes.", "answer": "False"},
+            {"id": 2, "question": "She has exactly six brothers and sisters. ", "answer": "False"},
+            {"id": 3, "question": "She feels that remembering everyday things and memorizing things are different processes.", "answer": "True"},
+            {"id": 4, "question": "She makes up a story to link random numbers and words, for visualization.", "answer": "False"},
+            {"id": 5, "question": "She didn’t have to do much except for taking lecture notes in college.", "answer": "True"},
+            {"id": 6, "question": "Her parents only encouraged her to read and learn languages to help her memory.", "answer": "False"},
+            {"id": 7, "question": "She finds memorization interesting.", "answer": "True"},
+            {"id": 8, "question": "She recently defeated 60 challengers to keep her memory champion title.", "answer": "False"},
+            {"id": 9, "question": "Her parents allowed her to watch TV when she was little.", "answer": "False"},
+            {"id": 10, "question": "Tatiana keeps a daily To Do list for remembering things on a daily basis.", "answer": "True"}
+        ],
+        "passage_text": "Now here's an interesting story about the (1)_______of how memory works... or doesn't work.\nGive Tatiana Cooley 100 faces and names to memorize and she can remember 70 of them 15 minutes later. Give her 4,000 numbers or (2)_______words and she'll repeat them better than most people. It's the same with a 54-line poem. So, why does Tatiana Cooley need sticky notes?\nShe says she's incredibly (3)_________! She recently defeated 16 challengers to keep her memory champion title, but when asked how many brothers and sisters she has, she replied, Six…er…seven...er six.\nShe keeps a daily To Do list and says she lives by reminder notes. According to Tatiana, the ability (4)________thing is different from remembering things on a daily basis. She says her memorizing is not on the same level as remembering to call people.\nTatiana (5)_______that she is not unique. She believes that anybody can train their mind to memorize. She uses two techniques: visualization and association. For visualization, she looks at material and mentally photographs it. For association, she makes up a story to (6)________random numbers and words.\nTatiana noticed that her ability to memorize was better than average when she was studying in college. She found that taking (7)_________notes was enough to prepare for tests. She didn't have to do anything else.\nTatiana gives credit for her (8)_______to her mother and father. They only allowed her to watch news and educational programs on TV when she was growing up. They played games to help her memory and encouraged her to read and learn languages. She reads in Portuguese, Spanish, and French. She thinks (9)_______ is fun. She says, I've always loved to learn. I've been like a sponge my whole life.\nSo, there you go, folks, it's reassuring to know that even a memory champion needs a little help (10)________everyday things sometimes. And, our next story is...",
+        "questions": [
+            {
+                "id": 1,
+                "options": {
+                    "A": "history",
+                    "B": "theory",
+                    "C": "mystery",
+                    "D": "phenomenon"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 2,
+                "options": {
+                    "A": "500",
+                    "B": "900",
+                    "C": "100",
+                    "D": "50"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 3,
+                "options": {
+                    "A": "open-minded",
+                    "B": "absent-minded",
+                    "C": "strong-minded",
+                    "D": "wrong-minded"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 4,
+                "options": {
+                    "A": "to recognize",
+                    "B": "to realize",
+                    "C": "to clarify",
+                    "D": "tp memorize"
+                },
+                "correct_answer": "D"
+            },
+            {
+                "id": 5,
+                "options": {
+                    "A": "consists",
+                    "B": "exists",
+                    "C": "insists",
+                    "D": "emits"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 6,
+                "options": {
+                    "A": "link",
+                    "B": "think",
+                    "C": "bring",
+                    "D": "click"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 7,
+                "options": {
+                    "A": "letter",
+                    "B": "lecture",
+                    "C": "better",
+                    "D": "whatever"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 8,
+                "options": {
+                    "A": "family",
+                    "B": "facilities",
+                    "C": "abilities",
+                    "D": "variety"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 9,
+                "options": {
+                    "A": "memorization",
+                    "B": "visualization",
+                    "C": "association",
+                    "D": "modernization"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 10,
+                "options": {
+                    "A": "menorizing",
+                    "B": "realizing",
+                    "C": "recognizing",
+                    "D": "remembering"
+                },
+                "correct_answer": "D"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "audio": null,
+        "type": "cloze_text",
+        "passage_text": "Ella\nWell, I’d like to be a vet. I have three pets – two rabbits and a (1)_______named Princess. I love taking care of them, so I think I’ll be a good vet. I asked my mom if I could have a (2)________, but she said no. When I’m a vet, I want to have two dogs and a horse, too.\nJoe\nI can already play the piano, but now I’m learning to play the electric guitar. I love it! I’d love to be in a rock band. I want to play (3)_______guitar and write all the songs. I’m thinking of asking my friends if they want to start a band.\nJuliet\nIt’s an important year for me at school this year. I’m taking nine classes. I’m going to study hard and get really good (4)_______on all my tests, so I can go to college. But I’m still going to have fun. I’m seeing my friends tonight!\nHannah\nI’d like to go (5)________to work next year. I worked in a bank before I had children, but I don’t want to do that anymore. I hope to go back to college and study to be a (6)________school teacher. I’ve worked part-time at Ella and Joe’s school for a few years now, and I really enjoy it.\nDavid\nI’ve been in the same job for 20 years. I’m an (7)_________for a big company, and I visit all the company offices regularly. I am thinking of changing jobs, because I’m tired of traveling all the time. Actually, I’d like to start my own business.\nEdie\nLast year I joined a travel club for people my age. It’s (8)________! I really enjoy meeting new people and seeing new places. I’m looking (9)_______to going on a world cruise with my friend, Margaret. I met her on the last cruise. We’re going to the (10)_______. I can’t wait!",
+        "answers": [
+            {"id": 1, "text": "kitten"},
+            {"id": 2, "text": "puppy"},
+            {"id": 3, "text": "lead"},
+            {"id": 4, "text": "grades"},
+            {"id": 5, "text": "back"},
+            {"id": 6, "text": "primary"},
+            {"id": 7, "text": "accountant"},
+            {"id": 8, "text": "marvelous"},
+            {"id": 9, "text": "forward"},
+            {"id": 10, "text": "caribean"}
+        ]
+    },
+    {
+        "id": 25,
+        "audio": null,
+        "type": "cloze_text",
+        "passage_text": "Ben\nThe best thing for me is my dog, Jasper. He’s a black Labrador and he’s great. I got him when he was a puppy, and I was nine. So, we’ve grown up together. My uncle gave him to me for my ninth birthday, so he didn’t cost anything. What’s he like? Well, he’s very (1)_______. He’s also a bit crazy, and great fun to play with. He’s much more (2)_______than I am. I’m always tired after taking him for a walk.\nMary\nOoh, there are lots of things I like that don’t cost anything, I’m sure. Let’s see…sunsets. That’s one thing I love. My house is on a hill, and in the evening when I look out of my kitchen window, there’s sometimes a beautiful sunset. It makes washing the (3)_______much easier! I also love getting phone calls and cards from my family. I suppose they cost something, but not to me! But (4)_______, the best thing of all is my first grandchild. He’s the most beautiful baby boy I’ve ever seen!\nMichael\nI work in the city, so the best thing for me is being in the (5)________. I don’t care what the weather is like. Even if it’s rainy and windy, it’s great to be outside. It’s much quieter than the city, so there’s time to think. Actually, the countryside costs money, because I have to drive there first! Ok, so the next best thing is going for a walk in the park near my place after work. It’s a nice park with lots of trees and a small lake. It’s the most (6)________way to end the day.\nLaura\nUm, well, I think the best thing for me is playing with my (7)______sister, Abby. She’s almost 4, so I’m much older than her. I also have a brother, Dominic. He’s 6. But he doesn’t like the games I like, so he isn’t as much fun to play with. Abby’s always waiting for me when I come home from school. She thinks I’m the best person in the (8)_______world. We usually play hospital or school. I’m the doctor or teacher, of course, because I’m the biggest.\nKelly\n(9)________, the best thing for me is being with my boyfriend, Dan. We don’t have to go out or spend money. I love just going for a walk and chatting with him. He makes me laugh all the time. He’s the funniest person I know. And the nicest friend. We’ve been together for nearly a year, and our (10)________just gets better and better. I think I’m really lucky.",
+        "answers": [
+            {"id": 1, "text": "loving"},
+            {"id": 2, "text": "energetic"},
+            {"id": 3, "text": "dishes"},
+            {"id": 4, "text": "actually"},
+            {"id": 5, "text": "countryside"},
+            {"id": 6, "text": "relaxing"},
+            {"id": 7, "text": "little"},
+            {"id": 8, "text": "whole"},
+            {"id": 9, "text": "definitely"},
+            {"id": 10, "text": "relationship"}
+        ]
+    },
+    {
+        "id": 26,
+        "audio": null,
+        "type": "cloze_text",
+        "passage_text": "LEAVING HOME – IAN MITCHELL\nMy daughter Evie is living in New York now. She went there (1)________months ago, and I’m really worried about her. She says she’s having a great time, but she’s still only (2)________, and I just think New York’s such a (3)________place for a young woman. She shouldn’t live so far away from home. Her mother went with her to help her look for somewhere to live. But I didn’t go. I don’t like New York. I don’t like big cities.\nWhy did she have to go there, anyway? I don’t understand. She says she wants to be a dancer, and she’s taking some kind of class, a ballet class or (4)_________. But ballet isn’t a real job, and you don’t make much money being a dancer, do you? She’s a smart girl. I think she should go to (5)_________.\nShe’s living in an (6)________there in New York by herself – she’s on her own, and I don’t like that at all! (7)________, she has a boyfriend. We’ve never met him – Michael, I think his name is. He doesn’t have a job. But Evie works hard, though. She works on the weekends as a (8)_________in a restaurant. I just hope it’s a nice place.\nShe calls home sometimes, but not a lot, and we call her, but usually her cell phone’s turned off or she doesn’t answer. When I do (9)________to talk to her, she just tells us that we should get a (10)________so she can text us. She says we shouldn’t worry. How can we not worry? We’re her parents, we miss her, and of course we worry. Sometimes I can’t sleep at night. She really should come home more often.",
+        "answers": [
+            {"id": 1, "text": "4"},
+            {"id": 2, "text": "18"},
+            {"id": 3, "text": "dangerous"},
+            {"id": 4, "text": "something"},
+            {"id": 5, "text": "college"},
+            {"id": 6, "text": "aparment"},
+            {"id": 7, "text": "apparently"},
+            {"id": 8, "text": "waitress"},
+            {"id": 9, "text": "manage"},
+            {"id": 10, "text": "cellphone"}
+        ]
+    },
+    {
+        "id": 46,
+        "audio": null,
+        "type": "question",
+        "questions": [
+            {
+                "id": 1,
+                "question": "What is the man's name?",
+                "options": {
+                    "A": "His name is Mike.",
+                    "B": "He goes by Nick.",
+                    "C": "His friends call him Nate."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 2,
+                "question": "Where is the man from?",
+                "options": {
+                    "A": "He's from Brownton.",
+                    "B": "His hometown is Brownburg.",
+                    "C": "He's originally from Brownsville."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 3,
+                "question": "How old is the man?",
+                "options": {
+                    "A": "He's in his early twenties.",
+                    "B": "He's in his mid-twenties.",
+                    "C": "He's in his late twenties."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 4,
+                "question": "Where did the man meet Sarah?",
+                "options": {
+                    "A": "He met her on a bus.",
+                    "B": "They were introduced at a party.",
+                    "C": "He saw her in a language class."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 5,
+                "question": "Sarah's older sister is worried that Nick_______.",
+                "options": {
+                    "A": "is a terrible language teacher",
+                    "B": "is going to be a negative influence on her",
+                    "C": "charges too much money for lessons"
+                },
+                "correct_answer": ""
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "audio": null,
+        "type": "question",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Gregorio is well known for his ability to work with________.",
+                "options": {
+                    "A": "famous athletes",
+                    "B": "animals",
+                    "C": "world dancers"
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 2,
+                "question": "What is one thing that is NOT true about him?",
+                "options": {
+                    "A": "He's tall.",
+                    "B": "He's wearing green slacks.",
+                    "C": "He has on a blue jacket."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 3,
+                "question": "What does Georgina do for a living?",
+                "options": {
+                    "A": "She's a popular sports figure.",
+                    "B": "She's famous for her cooking skills.",
+                    "C": "She makes a living selling tennis shoes."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 4,
+                "question": "Georgina is a_______woman wearing a yellow dress.",
+                "options": {
+                    "A": "large",
+                    "B": "heavy",
+                    "C": "small"
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 5,
+                "question": "What is the other invited guest, Brad Pitt, doing in the conversation?",
+                "options": {
+                    "A": "He's sitting in the room.",
+                    "B": "He's standing by a table.",
+                    "C": "He's eating some refreshments."
+                },
+                "correct_answer": ""
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "audio": null,
+        "type": "question",
+        "questions": [
+            {
+                "id": 1,
+                "question": "What is the woman's name?",
+                "options": {
+                    "A": "Her name is Ruth Ann.",
+                    "B": "It's Ronda.",
+                    "C": "The woman's name is Rachel."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 2,
+                "question": "The woman spent most of her life in_______>",
+                "options": {
+                    "A": "California",
+                    "B": "Utah",
+                    "C": "New York"
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 3,
+                "question": "What does the woman do for a living?",
+                "options": {
+                    "A": "She is a computer programmer.",
+                    "B": "She works at a school.",
+                    "C": "She has a job at a bank."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 4,
+                "question": "How often does the woman go to the gym?",
+                "options": {
+                    "A": "She goes there three times a week.",
+                    "B": "She works out four times a week",
+                    "C": "She exercises five times a week."
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 5,
+                "question": "Which statement is NOT true about the conversation?",
+                "options": {
+                    "A": "The man is from a city called Salt Lake.",
+                    "B": "The woman gives the man her phone number.",
+                    "C": "The woman knows a lot about science."
+                },
+                "correct_answer": ""
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "audio": null,
+        "type": "truefalse",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Ten workers have been rescued from an accident 400 feet beneath the streets of New York.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 2,
+                "question": "The workers had spent the past 26 hours trapped underground.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 3,
+                "question": "The workers had been digging a tunnel for a new subway line when the roof of their tunnel collapsed.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 4,
+                "question": "Sixteen men managed to escape immediately, but two were fatally injured.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 5,
+                "question": "Last night the nine men were recovering in the hospital.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "B"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "audio": null,
+        "type": "truefalse",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Three children who had been missing for two days have been found safe and sound.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 2,
+                "question": "The three-ten-year-olds, a boy and two girls, disappeared after school on Wednesday.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 3,
+                "question": "Police had released photographs of the two and had been searching nearby houses.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 4,
+                "question": "A neighbor spotted three children and alerted the police.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 5,
+                "question": "The children had slept outside in a garden and realized the concern they had caused.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "B"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "audio": null,
+        "type": "truefalse",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Paper has been used for hundreds of things for a long time ago.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 2,
+                "question": "Before paper, people wrote on animal skins, bones, and stones.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 3,
+                "question": "Papyrus was similar to paper.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 4,
+                "question": "A Chinese government official invented the first real paper in 2700 BC.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 5,
+                "question": "The first European paper mill was built in Spain in 1150.",
+                "options": {
+                    "A": "True",
+                    "B": "False"
+                },
+                "correct_answer": "A"
+            }
+        ]
+    }
+]

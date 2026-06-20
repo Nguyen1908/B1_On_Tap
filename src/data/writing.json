@@ -1,0 +1,227 @@
+[
+  {
+    "id": 36,
+    "question": "Why don't you start to run and see if that helps you lose weight? (up)",
+    "hint": {
+      "prefix": "Why don't you ",
+      "suffix": " that helps you lose weight?"
+    },
+    "correct_answer": "take up running and see if"
+  },
+  {
+    "id": 37,
+    "question": "I did German lessons until last year, but I stopped because I didn't have time. (used)",
+    "hint": {
+      "prefix": "I used to do ",
+      "suffix": ""
+    },
+    "correct_answer": "German lessons until last year"
+  },
+  {
+    "id": 38,
+    "question": "When you make a mistake, put a line through it and write the correct answer above. (cross)",
+    "hint": {
+      "prefix": "When you make ",
+      "suffix": " the correct answer above."
+    },
+    "correct_answer": "a mistake, cross it out and write"
+  },
+  {
+    "id": 39,
+    "question": "Have you played Monopoly before? (time)",
+    "hint": {
+      "prefix": "Is this the ",
+      "suffix": "?"
+    },
+    "correct_answer": "first time you've played Monopoly"
+  },
+  {
+    "id": 40,
+    "question": "I started studying at six and now it's ten o'clock. (for)",
+    "hint": {
+      "prefix": "It's ten o'clock and ",
+      "suffix": ""
+    },
+    "correct_answer": "I've been studying for four hours"
+  },
+  {
+    "id": 41,
+    "question": "I'm sorry I broke your glasses, Paul, said Stacy. (apologised)",
+    "hint": {
+      "prefix": "Stacy ",
+      "suffix": ""
+    },
+    "correct_answer": "apologised for breaking Paul's glasses"
+  },
+  {
+    "id": 42,
+    "question": "When I'm an adult, I want to be a pop star! (up)",
+    "hint": {
+      "prefix": "When I ",
+      "suffix": ""
+    },
+    "correct_answer": "grow up, I want to be a pop star"
+  },
+  {
+    "id": 43,
+    "question": "Let's leave at seven o'clock tomorrow morning. (set)",
+    "hint": {
+      "prefix": "Let's ",
+      "suffix": ""
+    },
+    "correct_answer": "set off at seven o'clock tomorrow morning"
+  },
+  {
+    "id": 44,
+    "question": "You've really disappointed me, Rachel. (down)",
+    "hint": {
+      "prefix": "You've really ",
+      "suffix": ""
+    },
+    "correct_answer": "let me down, Rachel"
+  },
+  {
+    "id": 45,
+    "question": "They gave me a map of the town center. (provided)",
+    "hint": {
+      "prefix": "They ",
+      "suffix": "?"
+    },
+    "correct_answer": "provided me a map of the town center"
+  },
+  {
+    "id": 46,
+    "question": "Hurry up or we'll miss the plane! (late)",
+    "hint": {
+      "prefix": "Hurry up or we'll ",
+      "suffix": "?"
+    },
+    "correct_answer": "be late for the plane"
+  },
+  {
+    "id": 47,
+    "question": "Did you really go into town by yourself, Sam? (own)",
+    "hint": {
+      "prefix": "Did you really go ",
+      "suffix": "?"
+    },
+    "correct_answer": "to the town on your own, Sam"
+  },
+  {
+    "id": 48,
+    "question": "I don't really like traveling. (fond)",
+    "hint": {
+      "prefix": "I'm not ",
+      "suffix": ""
+    },
+    "correct_answer": "very fond of traveling"
+  },
+  {
+    "id": 49,
+    "question": "You need to stop the engine and then check to see if there's any oil on the ground. (turn)",
+    "hint": {
+      "prefix": "You need to ",
+      "suffix": " then check to see if there's any oil on the ground."
+    },
+    "correct_answer": "turn off the engine and"
+  },
+  {
+    "id": 50,
+    "question": "Before the aeroplane was invented, people told stories about flying machines. (made)",
+    "hint": {
+      "prefix": "Before the aeroplane was invented, ",
+      "suffix": ""
+    },
+    "correct_answer": "people made up stories about flying machines"
+  },
+  {
+    "id": 51,
+    "question": "Don't just put your batteries in the bin – recycle them! (away)",
+    "hint": {
+      "prefix": "Don't just ",
+      "suffix": " - recycle them!"
+    },
+    "correct_answer": "throw away your batteries in the bin"
+  },
+  {
+    "id": 52,
+    "question": "It took a long time for scientists to discover what stars are made of. (find)",
+    "hint": {
+      "prefix": "It took a long time for scientists ",
+      "suffix": ""
+    },
+    "correct_answer": "to find out what stars are made of"
+  },
+  {
+    "id": 53,
+    "question": "I found some old coins in a drawer while I was looking for a pen. (across)",
+    "hint": {
+      "prefix": "I came ",
+      "suffix": " while I was looking for a pen."
+    },
+    "correct_answer": "across old coins in a drawer"
+  },
+  {
+    "id": 54,
+    "question": "If your watch doesn't work, return it to the shop. (back)",
+    "hint": {
+      "prefix": "If your watch doesn't work, ",
+      "suffix": ""
+    },
+    "correct_answer": "put it back to the shop"
+  },
+  {
+    "id": 55,
+    "question": "Our car stopped working last weekend, and I don't know why. (down)",
+    "hint": {
+      "prefix": "Our car ",
+      "suffix": ", and I don't know why."
+    },
+    "correct_answer": "broke down last weekend"
+  },
+  {
+    "id": 56,
+    "question": "Did you give Mark the money you borrowed from him? (pay)",
+    "hint": {
+      "prefix": "Did you ",
+      "suffix": " Mark lent you?"
+    },
+    "correct_answer": "pay back the money"
+  },
+  {
+    "id": 57,
+    "question": "The magazine is published every Friday. (out)",
+    "hint": {
+      "prefix": "The magazine ",
+      "suffix": ""
+    },
+    "correct_answer": "comes out every Friday"
+  },
+  {
+    "id": 58,
+    "question": "Could you complete this application form, please? (in)",
+    "hint": {
+      "prefix": "Could you ",
+      "suffix": "?"
+    },
+    "correct_answer": "fill in this application form, please"
+  },
+  {
+    "id": 59,
+    "question": "I am writing with regard to your advertisement for a part-time shop assistant. (response)",
+    "hint": {
+      "prefix": "I am writing ",
+      "suffix": " for a part-time shop assistant."
+    },
+    "correct_answer": "in response to your advertisement"
+  },
+  {
+    "id": 60,
+    "question": "I don't want to say anything about that.",
+    "hint": {
+      "prefix": "I don't want to ",
+      "suffix": ""
+    },
+    "correct_answer": "comment on that"
+  }
+]

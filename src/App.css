@@ -1,0 +1,102 @@
+/* Thiết lập nền tổng thể */
+.app-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+
+.content-wrapper {
+  background: white;
+  width: 100%;
+  max-width: 800px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* Tiêu đề */
+.header-title {
+  text-align: center;
+  color: #2c3e50;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.header-subtitle {
+  text-align: center;
+  color: #7f8c8d;
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+}
+
+/* Grid chứa các thẻ Menu */
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+/* Thẻ Menu (Card) */
+.menu-card {
+  background: #ffffff;
+  border: 2px solid #eef2f5;
+  border-radius: 15px;
+  padding: 30px 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.menu-card:hover {
+  transform: translateY(-5px);
+  border-color: #3498db;
+  box-shadow: 0 8px 20px rgba(52, 152, 219, 0.15);
+}
+
+.card-icon {
+  font-size: 3rem;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  color: #34495e;
+  font-weight: 600;
+  margin: 0;
+}
+
+/* Nút Quay lại */
+.back-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background-color: transparent;
+  color: #34495e;
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 10px 0;
+  margin-bottom: 30px;
+  transition: color 0.2s ease;
+}
+
+.back-button:hover {
+  color: #e74c3c;
+}
+
+/* Hiệu ứng xuất hiện */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

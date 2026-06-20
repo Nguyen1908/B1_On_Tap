@@ -1,0 +1,430 @@
+[
+    {
+        "passage_id": "4",
+        "title": "HENRY FORD",
+        "passage_text": "Henry Ford was born on a farm in Michigan in 1863 but he did not like farming. When he was fifteen he began work as a mechanic and in 1893 he built his first car. After he (1)___________ driven it 1,500 kilometres, he sold it and built two bigger carts. Then, in 1903, he (2)___________ the Ford Motor Company. By (3)___________ strong but light steel, he built cheap cars for (4)___________ people to buy. In 1908, he built the first Ford Model ‘T’, (5)___________ sold for $825. He was soon selling 100 cars (6)___________ day. By 1927, the Ford Motor Company was (7)___________ $700 million. Early Ford cars were simple and cheap, but (8)___________ things simple sometimes (9)___________ less choice. ‘You (10)___________ have any colour you like,’ said Henry Ford of the Model T, ‘as long as it’s black.’",
+        "questions": [
+            {
+                "id": 1,
+                "options": {
+                    "A": "is",
+                    "B": "was",
+                    "C": "had",
+                    "D": "has"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 2,
+                "options": {
+                    "A": "raised",
+                    "B": "started",
+                    "C": "led",
+                    "D": "appeared"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 3,
+                "options": {
+                    "A": "putting",
+                    "B": "operating",
+                    "C": "using",
+                    "D": "managing"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 4,
+                "options": {
+                    "A": "usual",
+                    "B": "ordinary",
+                    "C": "general",
+                    "D": "typical"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 5,
+                "options": {
+                    "A": "where",
+                    "B": "which",
+                    "C": "who",
+                    "D": "what"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 6,
+                "options": {
+                    "A": "a",
+                    "B": "some",
+                    "C": "the",
+                    "D": "one"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 7,
+                "options": {
+                    "A": "rich",
+                    "B": "worth",
+                    "C": "expensive",
+                    "D": "dear"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 8,
+                "options": {
+                    "A": "remaining",
+                    "B": "staying",
+                    "C": "keeping",
+                    "D": "holding"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 9,
+                "options": {
+                    "A": "meant",
+                    "B": "decided",
+                    "C": "planned",
+                    "D": "intended"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 10,
+                "options": {
+                    "A": "will",
+                    "B": "ought",
+                    "C": "need",
+                    "D": "can"
+                },
+                "correct_answer": "D"
+            }
+        ]
+    },
+    {
+        "passage_id": "7",
+        "title": "Cave Paintings in Australia",
+        "passage_text": "A cave containing over 200 paintings was discovered in the Wollemi National Park, Australia, eight years ago. Some of the paintings are (1)____________least 3,000 years old. (2)____________is even more surprising is that the cave was found by chance by someone walking in the area. However, the site of the cave was so difficult to reach that it (3)____________ a long time before researchers could visit it. The exact location of the site has to be (4)____________secret. This is to (5)____________the cave from being visited by sightseers who do not (6)____________how easy it is to (7)____________the paintings. The paintings show people and animals, (8)____________birds, lizards and other Australian animals that can (9)____________be seen today. According to researchers, (10)____________its recent discovery, nobody had visited the cave for around 200 years.",
+        "questions": [
+            {
+                "id": 1,
+                "options": {
+                    "A": "in",
+                    "B": "of",
+                    "C": "to",
+                    "D": "at"
+                },
+                "correct_answer": "D"
+            },
+            {
+                "id": 2,
+                "options": {
+                    "A": "How",
+                    "B": "What",
+                    "C": "Why",
+                    "D": "Which"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 3,
+                "options": {
+                    "A": "lasted",
+                    "B": "spent",
+                    "C": "took",
+                    "D": "finished"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 4,
+                "options": {
+                    "A": "remained",
+                    "B": "set",
+                    "C": "controlled",
+                    "D": "kept"
+                },
+                "correct_answer": "D"
+            },
+            {
+                "id": 5,
+                "options": {
+                    "A": "prevent",
+                    "B": "miss",
+                    "C": "escape",
+                    "D": "avoid"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 6,
+                "options": {
+                    "A": "catch",
+                    "B": "realise",
+                    "C": "dream",
+                    "D": "feel"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 7,
+                "options": {
+                    "A": "waste",
+                    "B": "injure",
+                    "C": "damage",
+                    "D": "upset"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 8,
+                "options": {
+                    "A": "involving",
+                    "B": "adding",
+                    "C": "including",
+                    "D": "consisting"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 9,
+                "options": {
+                    "A": "yet",
+                    "B": "already",
+                    "C": "ever",
+                    "D": "still"
+                },
+                "correct_answer": "D"
+            },
+            {
+                "id": 10,
+                "options": {
+                    "A": "by",
+                    "B": "after",
+                    "C": "until",
+                    "D": "on"
+                },
+                "correct_answer": "C"
+            }
+        ]
+    },
+    {
+        "passage_id": "15",
+        "title": "William the hero!",
+        "passage_text": "Brave William Baldock, who is six years old, is a hero after helping his mother when she fell downstairs. William quickly rang (1) ____________ an ambulance when he discovered his mother had broken her leg. In spite of being frightened, he (2) ____________the emergency services what had happened and answered all the questions they asked him. He also telephoned his father (3) ____________ work, and then his grandmother, to explain what he had (4) ____________. While waiting for (5) ____________ people to come, William looked after his 18-month-old sister.\nWhen ambulance man Steve Lyn went to the house, he was amazed: “It's (6) ____________ that a young boy of six knew the right number to (7) ____________, and was able to give us the correct information. (8)____________of William's quick thinking, we were able to (9) ____________there immediately.”\nMrs Baldock left hospital yesterday, very (10) ____________to both William and the ambulance service.",
+        "questions": [
+            {
+                "id": 1,
+                "options": {
+                    "A": "to",
+                    "B": "off",
+                    "C": "for",
+                    "D": "with"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 2,
+                "options": {
+                    "A": "said",
+                    "B": "talked",
+                    "C": "spoke",
+                    "D": "told"
+                },
+                "correct_answer": "D"
+            },
+            {
+                "id": 3,
+                "options": {
+                    "A": "in",
+                    "B": "at",
+                    "C": "on",
+                    "D": "by"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 4,
+                "options": {
+                    "A": "done",
+                    "B": "made",
+                    "C": "acted",
+                    "D": "worked"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 5,
+                "options": {
+                    "A": "these",
+                    "B": "every",
+                    "C": "each",
+                    "D": "this"
+                },
+                "correct_answer": "A"
+            },
+            {
+                "id": 6,
+                "options": {
+                    "A": "pleased",
+                    "B": "fine",
+                    "C": "clever",
+                    "D": "great"
+                },
+                "correct_answer": "D"
+            },
+            {
+                "id": 7,
+                "options": {
+                    "A": "put",
+                    "B": "set",
+                    "C": "dial",
+                    "D": "hit"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 8,
+                "options": {
+                    "A": "Since",
+                    "B": "Because",
+                    "C": "As",
+                    "D": "Although"
+                },
+                "correct_answer": "B"
+            },
+            {
+                "id": 9,
+                "options": {
+                    "A": "manage",
+                    "B": "find",
+                    "C": "get",
+                    "D": "reach"
+                },
+                "correct_answer": "C"
+            },
+            {
+                "id": 10,
+                "options": {
+                    "A": "agreeable",
+                    "B": "happy",
+                    "C": "grateful",
+                    "D": "approving"
+                },
+                "correct_answer": "C"
+            }
+        ]
+    },
+    {
+        "passage_id": "17",
+        "title": "",
+        "passage_text": "",
+        "questions": [
+            {
+                "id": 1,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 2,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 3,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 4,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 5,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 6,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 7,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 8,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 9,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            },
+            {
+                "id": 10,
+                "options": {
+                    "A": "",
+                    "B": "",
+                    "C": "",
+                    "D": ""
+                },
+                "correct_answer": ""
+            }
+        ]
+    }
+]

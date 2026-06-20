@@ -1,0 +1,2202 @@
+[
+    {
+        "id": 1,
+        "question": "Tim ________ the news, while his son was playing computer games.",
+        "options": {
+            "A": "is watching",
+            "B": "watches",
+            "C": "was watching",
+            "D": "watching"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 2,
+        "question": "Lenny ________ his old house two months ago.",
+        "options": {
+            "A": "were selling",
+            "B": "sells",
+            "C": "is selling",
+            "D": "sold"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 3,
+        "question": "He didn't meet Joe and Alf, because they left ________ than they usually do.",
+        "options": {
+            "A": "early",
+            "B": "earlier",
+            "C": "earliest",
+            "D": "the earliest"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 4,
+        "question": "________ you finish your report on time?",
+        "options": {
+            "A": "Was",
+            "B": "Are",
+            "C": "Did",
+            "D": "Were"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 5,
+        "question": "I was resting all day yesterday, because I was ________ tired.",
+        "options": {
+            "A": "terrible",
+            "B": "most terrible",
+            "C": "terribly",
+            "D": "more terribly"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 6,
+        "question": "Robert was crossing the street when he ________ Fred riding a motorcycle.",
+        "options": {
+            "A": "saw",
+            "B": "was seeing",
+            "C": "seeing",
+            "D": "is seeing"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 7,
+        "question": "This artist is ________ famous of all three that you mentioned.",
+        "options": {
+            "A": "the less",
+            "B": "least",
+            "C": "less",
+            "D": "the least"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 8,
+        "question": "That's the boy ________ father is our teacher.",
+        "options": {
+            "A": "who",
+            "B": "which",
+            "C": "whose",
+            "D": "that"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 9,
+        "question": "Can you tell me ________ to put these boxes?",
+        "options": {
+            "A": "where",
+            "B": "when",
+            "C": "which",
+            "D": "who"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 10,
+        "question": "Mark, ________ is only twenty, teaches French.",
+        "options": {
+            "A": "which",
+            "B": "who",
+            "C": "when",
+            "D": "whose"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 11,
+        "question": "My doctor advised me to ________ a sport.",
+        "options": {
+            "A": "take off",
+            "B": "take after",
+            "C": "take up",
+            "D": "take on"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 12,
+        "question": "I can't believe that they ________ your offer.",
+        "options": {
+            "A": "turned on",
+            "B": "turned off",
+            "C": "turned out",
+            "D": "turned down"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 13,
+        "question": "When I suggested a walk in the woods, he ________.",
+        "options": {
+            "A": "credited",
+            "B": "nodded",
+            "C": "raised",
+            "D": "shook"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 14,
+        "question": "After his mother's ________, he moved to Argentina.",
+        "options": {
+            "A": "death",
+            "B": "strength",
+            "C": "power",
+            "D": "impression"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 15,
+        "question": "It was really ________ that nobody was hurt in that accident.",
+        "options": {
+            "A": "strong",
+            "B": "powerful",
+            "C": "incredible",
+            "D": "truthful"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 16,
+        "question": "Both my children are afraid ________ the dark.",
+        "options": {
+            "A": "of",
+            "B": "for",
+            "C": "on",
+            "D": "with"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 17,
+        "question": "They did everything in their ________ to keep the company.",
+        "options": {
+            "A": "truth",
+            "B": "strength",
+            "C": "impression",
+            "D": "power"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 18,
+        "question": "I bought a leather bag that _________ my new boots.",
+        "options": {
+            "A": "match",
+            "B": "matches",
+            "C": "suits",
+            "D": "suit"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 19,
+        "question": "Both her children have a very vivid _________.",
+        "options": {
+            "A": "description",
+            "B": "impression",
+            "C": "admiration",
+            "D": "imagination"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 20,
+        "question": "I've got the _________ that they're lying again.",
+        "options": {
+            "A": "impression",
+            "B": "admiration",
+            "C": "imagination",
+            "D": "description"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 21,
+        "question": "Teddy _________ of moving closer to the city centre.",
+        "options": {
+            "A": "thinks",
+            "B": "is thinking",
+            "C": "don't think",
+            "D": "aren't thinking"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 22,
+        "question": "We _________ giving you a lift home.",
+        "options": {
+            "A": "don't mind",
+            "B": "aren't minding",
+            "C": "doesn't mind",
+            "D": "isn't minding"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 23,
+        "question": "The Potters _________ to Dubai at 9:00 tomorrow morning.",
+        "options": {
+            "A": "is flying",
+            "B": "don't fly",
+            "C": "doesn't fly",
+            "D": "are flying"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 24,
+        "question": "_________ is your favorite European city?",
+        "options": {
+            "A": "When",
+            "B": "How",
+            "C": "Which",
+            "D": "Who"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 25,
+        "question": "_________ much do they charge for a single room with breakfast?",
+        "options": {
+            "A": "How",
+            "B": "Who",
+            "C": "What",
+            "D": "Where"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 26,
+        "question": "_________ is your brother talking to?",
+        "options": {
+            "A": "When",
+            "B": "Who",
+            "C": "Whose",
+            "D": "How"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 27,
+        "question": "The teacher _________ believe his excuse for not coming to school yesterday.",
+        "options": {
+            "A": "didn't",
+            "B": "don't",
+            "C": "used to not",
+            "D": "use to"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 28,
+        "question": "Bobby _________ skinny when he was a child.",
+        "options": {
+            "A": "was used to",
+            "B": "were",
+            "C": "used to be",
+            "D": "got used"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 29,
+        "question": "I _________ to contact Mr. Peterson twice, but didn't find him.",
+        "options": {
+            "A": "tried",
+            "B": "tries",
+            "C": "used to try",
+            "D": "try"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 30,
+        "question": "After a couple of days, Sam finally _________ up early in the morning.",
+        "options": {
+            "A": "used to wake",
+            "B": "get used to wake",
+            "C": "wake",
+            "D": "got used to waking"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 31,
+        "question": "It took him a month to recover _________ his illness.",
+        "options": {
+            "A": "for",
+            "B": "from",
+            "C": "of",
+            "D": "at"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 32,
+        "question": "The book exhibition took _________ at the Carlton Hotel.",
+        "options": {
+            "A": "part",
+            "B": "advantage",
+            "C": "it easy",
+            "D": "place"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 33,
+        "question": "I didn't _________ Jason to come on time.",
+        "options": {
+            "A": "expect",
+            "B": "remember",
+            "C": "wait",
+            "D": "reminded"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 34,
+        "question": "I'm sorry but I can't find it _________ the map.",
+        "options": {
+            "A": "over",
+            "B": "on",
+            "C": "between",
+            "D": "along"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 35,
+        "question": "They spent the whole day in Alexandria looking at the _________.",
+        "options": {
+            "A": "tasks",
+            "B": "part",
+            "C": "jobs",
+            "D": "sights"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 36,
+        "question": "He was lucky to find that _________ in their law firm.",
+        "options": {
+            "A": "job",
+            "B": "work",
+            "C": "site",
+            "D": "task"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 37,
+        "question": "I think that these trainers belong _________ your brother.",
+        "options": {
+            "A": "on",
+            "B": "in",
+            "C": "to",
+            "D": "at"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 38,
+        "question": "They usually take _________ of what I tell them.",
+        "options": {
+            "A": "their time",
+            "B": "part",
+            "C": "place",
+            "D": "no notice"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 39,
+        "question": "We never argue _________ our teacher.",
+        "options": {
+            "A": "with",
+            "B": "at",
+            "C": "on",
+            "D": "from"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 40,
+        "question": "This dish is very healthy because it consists _________ fish and vegetables.",
+        "options": {
+            "A": "on",
+            "B": "of",
+            "C": "at",
+            "D": "with"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 41,
+        "question": "At this time tomorrow, Gerry _________ his driving test.",
+        "options": {
+            "A": "shall take",
+            "B": "going to take",
+            "C": "shall have taken",
+            "D": "will be taking"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 42,
+        "question": "Henry _________ a shower as soon as he finishes cleaning his room.",
+        "options": {
+            "A": "will have had",
+            "B": "will have",
+            "C": "have",
+            "D": "is having"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 43,
+        "question": "Will you _________ painting the house by tomorrow?",
+        "options": {
+            "A": "finished",
+            "B": "going to fish",
+            "C": "have finished",
+            "D": "finishing"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 44,
+        "question": "Those cars are going really fast. There _________ an accident.",
+        "options": {
+            "A": "is",
+            "B": "will have been",
+            "C": "is going to be",
+            "D": "going to be"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 45,
+        "question": "They could take better pictures if they _________ a digital camera.",
+        "options": {
+            "A": "would have",
+            "B": "will have",
+            "C": "had",
+            "D": "are going to have"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 46,
+        "question": "If I _________ by the sea, I would go fishing every day.",
+        "options": {
+            "A": "lived",
+            "B": "would live",
+            "C": "live",
+            "D": "will be living"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 47,
+        "question": "Could I have _________ more apple juice, please?",
+        "options": {
+            "A": "no",
+            "B": "some",
+            "C": "any",
+            "D": "many"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 48,
+        "question": "I can't drink this tea. There's too _________ sugar in it.",
+        "options": {
+            "A": "much",
+            "B": "plenty",
+            "C": "many",
+            "D": "lot of"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 49,
+        "question": "How _________ teachers were there at the seminar yesterday?",
+        "options": {
+            "A": "some",
+            "B": "many",
+            "C": "any",
+            "D": "much"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 50,
+        "question": "Don't leave. There are _________ more things I want to tell you.",
+        "options": {
+            "A": "few",
+            "B": "any",
+            "C": "little",
+            "D": "a few"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 51,
+        "question": "He finished my portrait yesterday, but he's putting _________ at the moment.",
+        "options": {
+            "A": "it mildly",
+            "B": "the final touches",
+            "C": "ideas into my head",
+            "D": "an end to"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 52,
+        "question": "Do you think you could put _________ with the head teacher?",
+        "options": {
+            "A": "an end to",
+            "B": "it mildly",
+            "C": "the final touches",
+            "D": "in a good word for me"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 53,
+        "question": "I finally _________ trying to make him change his mind.",
+        "options": {
+            "A": "gave up",
+            "B": "gave out",
+            "C": "gave back",
+            "D": "gave off"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 54,
+        "question": "They told me to _________ these leaflets.",
+        "options": {
+            "A": "give off",
+            "B": "give out",
+            "C": "give up",
+            "D": "give in to"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 55,
+        "question": "They ________ the meeting because the chairman had to leave.",
+        "options": {
+            "A": "showed off",
+            "B": "paid off",
+            "C": "got off",
+            "D": "put off"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 56,
+        "question": "Andy loves ________ his brand-new sports car.",
+        "options": {
+            "A": "giving off",
+            "B": "putting off",
+            "C": "showing off",
+            "D": "cooling off"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 57,
+        "question": "I broke my leg as I was ________ the bus yesterday morning.",
+        "options": {
+            "A": "cooling off",
+            "B": "giving off",
+            "C": "paying off",
+            "D": "getting off"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 58,
+        "question": "According ________ Ned, that's the best Chinese restaurant in the city.",
+        "options": {
+            "A": "of",
+            "B": "in",
+            "C": "at",
+            "D": "to"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 59,
+        "question": "Unfortunately, he didn't succeed ________ getting the job after all.",
+        "options": {
+            "A": "in",
+            "B": "on",
+            "C": "for",
+            "D": "at"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 60,
+        "question": "Matt worked so hard that he finally made ________.",
+        "options": {
+            "A": "haste",
+            "B": "it to the top",
+            "C": "the most of",
+            "D": "difficult"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 61,
+        "question": "The Carltons have never ________ Denmark before.",
+        "options": {
+            "A": "been to",
+            "B": "gone to",
+            "C": "gone in",
+            "D": "been at"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 62,
+        "question": "Have you ________ thought of studying abroad?",
+        "options": {
+            "A": "since",
+            "B": "before",
+            "C": "never",
+            "D": "ever"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 63,
+        "question": "Danny ________ tennis since he was a child.",
+        "options": {
+            "A": "played",
+            "B": "plays",
+            "C": "been playing",
+            "D": "has been playing"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 64,
+        "question": "It has been raining heavily ________ our plane took off two hours ago.",
+        "options": {
+            "A": "while",
+            "B": "already",
+            "C": "since",
+            "D": "still"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 65,
+        "question": "Mr. Marfin ________ go on business trips very often.",
+        "options": {
+            "A": "need",
+            "B": "needs",
+            "C": "doesn't have",
+            "D": "has to"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 66,
+        "question": "We can't meet Jack today. We ________ to work overtime.",
+        "options": {
+            "A": "have",
+            "B": "must",
+            "C": "had better",
+            "D": "would rather"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 67,
+        "question": "I'd ________ join you for dinner than stay at home.",
+        "options": {
+            "A": "rather",
+            "B": "had better",
+            "C": "need",
+            "D": "must"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 68,
+        "question": "Luckily, we ________ wait for them. We can leave right now.",
+        "options": {
+            "A": "don't have",
+            "B": "don't need",
+            "C": "needn't",
+            "D": "not have to"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 69,
+        "question": "She ________ still be at home. I talked to her on the phone a couple of minutes ago.",
+        "options": {
+            "A": "has to",
+            "B": "better",
+            "C": "must",
+            "D": "needs"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 70,
+        "question": "I ________ see an optician. I can't see very clearly lately.",
+        "options": {
+            "A": "would rather",
+            "B": "may not",
+            "C": "might not",
+            "D": "had better"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 71,
+        "question": "My brother came ________ the flu last week and hasn't recovered yet.",
+        "options": {
+            "A": "across",
+            "B": "apart",
+            "C": "up with",
+            "D": "down with"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 72,
+        "question": "Why don't you ask Felix? He always comes ________ great ideas.",
+        "options": {
+            "A": "off",
+            "B": "up with",
+            "C": "down with",
+            "D": "apart"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 73,
+        "question": "They haven't cleaned their attic _________.",
+        "options": {
+            "A": "for ages",
+            "B": "in the future",
+            "C": "in common",
+            "D": "out of the ordinary"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 74,
+        "question": "I really had no intention _________ insulting your father.",
+        "options": {
+            "A": "of",
+            "B": "for",
+            "C": "on",
+            "D": "at"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 75,
+        "question": "They aren't interested _________ buying Steve's country house.",
+        "options": {
+            "A": "to",
+            "B": "on",
+            "C": "in",
+            "D": "for"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 76,
+        "question": "We must _________ into consideration everything he said.",
+        "options": {
+            "A": "regard",
+            "B": "give",
+            "C": "think",
+            "D": "take"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 77,
+        "question": "We're looking _________ seeing our grandparents.",
+        "options": {
+            "A": "after",
+            "B": "out",
+            "C": "over",
+            "D": "forward to"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 78,
+        "question": "Brad _________ his best to please his guests yesterday evening.",
+        "options": {
+            "A": "took",
+            "B": "did",
+            "C": "brought",
+            "D": "made"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 79,
+        "question": "Eating more fruit and vegetables will do you _________.",
+        "options": {
+            "A": "badly",
+            "B": "well",
+            "C": "good",
+            "D": "best"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 80,
+        "question": "I'm afraid that the new sales representative doesn't _________ the manager.",
+        "options": {
+            "A": "get by",
+            "B": "get through",
+            "C": "get across",
+            "D": "get on well with"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 81,
+        "question": "I could _________ killed if the driver hadn't stopped quickly.",
+        "options": {
+            "A": "have",
+            "B": "have been",
+            "C": "to have",
+            "D": "to have been"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 82,
+        "question": "If the meat _________ so tough, the children would have eaten it.",
+        "options": {
+            "A": "hadn't been",
+            "B": "hasn't been",
+            "C": "wouldn't be",
+            "D": "wouldn't have been"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 83,
+        "question": "If you hadn't helped me, I _________ finished on time.",
+        "options": {
+            "A": "didn't",
+            "B": "wouldn't",
+            "C": "wouldn't be",
+            "D": "wouldn't have"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 84,
+        "question": "He wouldn't have believed me if he _________ it with his own eyes.",
+        "options": {
+            "A": "haven't seen",
+            "B": "wouldn't see",
+            "C": "hadn't seen",
+            "D": "hadn't been seen"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 85,
+        "question": "I wish I _________ answer all his questions.",
+        "options": {
+            "A": "can",
+            "B": "could",
+            "C": "had",
+            "D": "have to"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 86,
+        "question": "If only the fire brigade _________ earlier.",
+        "options": {
+            "A": "arrives",
+            "B": "has arrived",
+            "C": "was arriving",
+            "D": "had arrived"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 87,
+        "question": "He wishes he _________ so many mistakes.",
+        "options": {
+            "A": "made",
+            "B": "hadn't made",
+            "C": "hasn't made",
+            "D": "had made"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 88,
+        "question": "_________ these two books have the information I need.",
+        "options": {
+            "A": "None",
+            "B": "Not any",
+            "C": "Neither of",
+            "D": "Not of"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 89,
+        "question": "_________ Ian and Gerry took part in the competition.",
+        "options": {
+            "A": "Both",
+            "B": "Either",
+            "C": "Neither",
+            "D": "All"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 90,
+        "question": "_________ four of my friends have their own computer.",
+        "options": {
+            "A": "None",
+            "B": "All",
+            "C": "Either",
+            "D": "Both"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 91,
+        "question": "I thought I knew him very well, but it would never have gone _________ that he would decide to live abroad.",
+        "options": {
+            "A": "wild",
+            "B": "red",
+            "C": "bananas",
+            "D": "through my mind"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 92,
+        "question": "Liam and Ken have checked it. I'm sure nothing can _________.",
+        "options": {
+            "A": "go wrong",
+            "B": "go wild",
+            "C": "go red",
+            "D": "go over the top"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 93,
+        "question": "Dean is very shy. He always goes _________ when somebody talks to him.",
+        "options": {
+            "A": "bad",
+            "B": "red",
+            "C": "wrong",
+            "D": "through his mind"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 94,
+        "question": "It's very hot in here. Don't leave the fish out of the fridge because it will _________.",
+        "options": {
+            "A": "go wild",
+            "B": "go bananas",
+            "C": "go bad",
+            "D": "go over the top"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 95,
+        "question": "At _________, you've got your own bedroom now that you moved house.",
+        "options": {
+            "A": "last",
+            "B": "late",
+            "C": "lately",
+            "D": "later"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 96,
+        "question": "I've noticed that Helen hasn't been feeling very well _________.",
+        "options": {
+            "A": "latest",
+            "B": "later",
+            "C": "late",
+            "D": "lately"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 97,
+        "question": "I try not to have dinner _________ at night.",
+        "options": {
+            "A": "last",
+            "B": "late",
+            "C": "latest",
+            "D": "least"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 98,
+        "question": "You could at _________ phone me to let me know that you wouldn't come.",
+        "options": {
+            "A": "later",
+            "B": "late",
+            "C": "least",
+            "D": "latest"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 99,
+        "question": "I can't stand him anymore; I'm going to put things straight _________.",
+        "options": {
+            "A": "all over",
+            "B": "at all",
+            "C": "all the same",
+            "D": "once and for all"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 100,
+        "question": "_________, his comments on their behaviour seemed fair.",
+        "options": {
+            "A": "All over",
+            "B": "All in all",
+            "C": "At all",
+            "D": "All year round"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 101,
+        "question": "Andrew managed_____a promotion.",
+        "options": {
+            "A": "in getting",
+            "B": "to get",
+            "C": "getting",
+            "D": "get"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 102,
+        "question": "I’d rather______with my cousin for the weekend.",
+        "options": {
+            "A": "stay",
+            "B": "to stay",
+            "C": "staying",
+            "D": "to staying"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 103,
+        "question": "They suggested_______the children to the new aquarium.",
+        "options": {
+            "A": "to take",
+            "B": "in taking",
+            "C": "taking",
+            "D": "to taking"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 104,
+        "question": "Don't forget______off the computer when you finish.",
+        "options": {
+            "A": "turning",
+            "B": "to turning",
+            "C": "turn",
+            "D": "to turn"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 105,
+        "question": "I'm sorry, but I don't really feel like______them tonight.",
+        "options": {
+            "A": "seeing",
+            "B": "to see",
+            "C": "see",
+            "D": "to seeing"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 106,
+        "question": "Charles______his car washed for two months.",
+        "options": {
+            "A": "hadn’t been",
+            "B": "hasn’t had",
+            "C": "hasn’t",
+            "D": "hadn’t been having"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 107,
+        "question": "Could I_______by fax, please?",
+        "options": {
+            "A": "have been sent",
+            "B": "have sent it",
+            "C": "had it sent",
+            "D": "have it sent"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 108,
+        "question": "You_______checked the report twice.",
+        "options": {
+            "A": "should have been",
+            "B": "could",
+            "C": "should have",
+            "D": "could have been"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 109,
+        "question": "They_______come back from the shopping centre by now.",
+        "options": {
+            "A": "must have",
+            "B": "must have to",
+            "C": "might be",
+            "D": "may have been"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 110,
+        "question": "I’m not sure, but I think he_______used your coffee mug.",
+        "options": {
+            "A": "can have been",
+            "B": "might have to",
+            "C": "can be",
+            "D": "may have"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 111,
+        "question": "I was cooking and talking on the phone________",
+        "options": {
+            "A": "at once",
+            "B": "at random",
+            "C": "at a glance",
+            "D": "at the same time"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 112,
+        "question": "They’re having a lesson_________",
+        "options": {
+            "A": "at random",
+            "B": "ata glance",
+            "C": "at the moment",
+            "D": "at once"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 113,
+        "question": "________of six, he wanted to become an astronaut.",
+        "options": {
+            "A": "Ata glance",
+            "B": "At the age",
+            "C": "At the moment",
+            "D": "At the same time"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 114,
+        "question": "The headmaster told them to go to their classroom________",
+        "options": {
+            "A": "at once",
+            "B": "at the age",
+            "C": "at his own speed_",
+            "D": "ata glance"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 115,
+        "question": "I'm really sorry, but I didn't have________that your mother was so seriously ill.",
+        "options": {
+            "A": "the chance",
+            "B": "an argument",
+            "C": "alotincommon _",
+            "D": "the slightest idea"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 116,
+        "question": "The chief editor had________at the whole magazine before it was printed.",
+        "options": {
+            "A": "an effect",
+            "B": "a look",
+            "C": "a lot in common",
+            "D": "an argument"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 117,
+        "question": "I'm sure that he had_______leaving you here all by yourself.",
+        "options": {
+            "A": "a look at",
+            "B": "the chance",
+            "C": "no intention of",
+            "D": "an effect on"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 118,
+        "question": "Unfortunately, they had a big_______their supervisor yesterday morning.",
+        "options": {
+            "A": "effect on",
+            "B": "intention of",
+            "C": "look at",
+            "D": "argument with"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 119,
+        "question": "Gregory never_______what his mother tells him.",
+        "options": {
+            "A": "informs",
+            "B": "is used to",
+            "C": "pays attention to",
+            "D": "makes his way to"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 120,
+        "question": "Mona's teacher________her from taking the exams.",
+        "options": {
+            "A": "informed",
+            "B": "discouraged",
+            "C": "waited",
+            "D": "made"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 121,
+        "question": "The plans for the new hospital________soon.",
+        "options": {
+            "A": "will make",
+            "B": "will be made",
+            "C": "will be making",
+            "D": "are made"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 122,
+        "question": "All the bills________by my father.",
+        "options": {
+            "A": "have paid",
+            "B": "be paid",
+            "C": "been paid",
+            "D": "have been paid"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 123,
+        "question": "The Spanish language________in many countries.",
+        "options": {
+            "A": "is spoken",
+            "B": "speaks",
+            "C": "are spoken",
+            "D": "spoken"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 124,
+        "question": "I didn't turn on the light_________I didn't want to wake the baby up.",
+        "options": {
+            "A": "because of",
+            "B": "as",
+            "C": "despite",
+            "D": "so as not"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 125,
+        "question": "Our flight wasn't cancelled_______the heavy storm.",
+        "options": {
+            "A": "although",
+            "B": "in spite",
+            "C": "despite",
+            "D": "even though"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 126,
+        "question": "They took a taxi__________catch their flight.",
+        "options": {
+            "A": "So as",
+            "B": "so that",
+            "C": "as to",
+            "D": "in order to"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 127,
+        "question": "Is tomorrow's newspaper__________right now?",
+        "options": {
+            "A": "been printed",
+            "B": "be printing",
+            "C": "being printed",
+            "D": "been printing"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 128,
+        "question": "George ________ at 5 o'clock yesterday.",
+        "options": {
+            "A": "has been interviewed",
+            "B": "was interviewing",
+            "C": "interviewed",
+            "D": "was being interviewed"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 129,
+        "question": "Samuel ________ to be responsible for the accident.",
+        "options": {
+            "A": "is believed",
+            "B": "believed",
+            "C": "has believed",
+            "D": "has been believed"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 130,
+        "question": "He ________ a bike by his grandparents.",
+        "options": {
+            "A": "gave",
+            "B": "was given",
+            "C": "was giving",
+            "D": "will give"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 131,
+        "question": "The new bridge is still under ________",
+        "options": {
+            "A": "supervision",
+            "B": "age",
+            "C": "the same roof",
+            "D": "construction"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 132,
+        "question": "Barry worked on this project under the ________ of Mr Thomson.",
+        "options": {
+            "A": "supervision",
+            "B": "repair",
+            "C": "age",
+            "D": "consideration"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 133,
+        "question": "The company's offer is under ________.",
+        "options": {
+            "A": "construction",
+            "B": "consideration",
+            "C": "repair",
+            "D": "the same roof"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 134,
+        "question": "Tim and Matt argue all the time. They can't live under ________",
+        "options": {
+            "A": "the same roof",
+            "B": "age",
+            "C": "consideration",
+            "D": "construction"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 135,
+        "question": "Mr Pitt doesn't have a credit card and always pays ________.",
+        "options": {
+            "A": "in common",
+            "B": "in fact",
+            "C": "in cash",
+            "D": "in detail"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 136,
+        "question": "The guests will be here in twenty minutes. In ________, we can lay the table.",
+        "options": {
+            "A": "detail",
+            "B": "common",
+            "C": "danger",
+            "D": "the meantime"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 137,
+        "question": "I'm afraid we have nothing ________with Philip and his brother.",
+        "options": {
+            "A": "in common",
+            "B": "in detail",
+            "C": "in the meantime",
+            "D": "in danger"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 138,
+        "question": "Isn't Mark here? In________, we'll have to start the meeting without him.",
+        "options": {
+            "A": "detail",
+            "B": "that case",
+            "C": "cash",
+            "D": "common"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 139,
+        "question": "Why don't you ask him to put you ________ to Mr Robinson?",
+        "options": {
+            "A": "up",
+            "B": "out",
+            "C": "through",
+            "D": "up with"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 140,
+        "question": "Since he missed the last bus, I can put him ________ for the night",
+        "options": {
+            "A": "forward",
+            "B": "through",
+            "C": "up with",
+            "D": "up"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 141,
+        "question": "I was very tired yesterday because I ________ for two nights.",
+        "options": {
+            "A": "haven't been sleeping",
+            "B": "hadn't slept",
+            "C": "didn't sleep",
+            "D": "was sleeping"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 142,
+        "question": "How long had you been standing there before I ________you?",
+        "options": {
+            "A": "see",
+            "B": "had seen",
+            "C": "was seeing",
+            "D": "saw"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 143,
+        "question": "When Jill heard the alarm, she ran out of the house, but the thieves________ her car.",
+        "options": {
+            "A": "had already stolen",
+            "B": "were already stolen",
+            "C": "already stole",
+            "D": "had already been stealing"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 144,
+        "question": "Mark _________ to learn Spanish on his own for three years, but last year he decided to go to a language school",
+        "options": {
+            "A": "was trying",
+            "B": "had been trying",
+            "C": "has tried",
+            "D": "has been trying"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 145,
+        "question": "Eric said that he had lost his mobile phone _________,",
+        "options": {
+            "A": "yesterday",
+            "B": "previous day",
+            "C": "the day until",
+            "D": "the day before"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 146,
+        "question": "Carl told _________ that Tom couldn't be there on time.",
+        "options": {
+            "A": "me",
+            "B": "to me",
+            "C": "for me",
+            "D": "at me"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 147,
+        "question": "His secretary told them _________ in the office.",
+        "options": {
+            "A": "not wait",
+            "B": "not to wait",
+            "C": "to not wait",
+            "D": "don't wait"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 148,
+        "question": "Mr. Taylor _________ to the hotel manager about the service in the hotel.",
+        "options": {
+            "A": "said",
+            "B": "explained",
+            "C": "accused",
+            "D": "complained"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 149,
+        "question": "Mike asked me _________ abroad before.",
+        "options": {
+            "A": "whether I travel",
+            "B": "had I travelled",
+            "C": "if I travelled",
+            "D": "whether I had travelled"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 150,
+        "question": "The police officer asked me _________,",
+        "options": {
+            "A": "where are you from",
+            "B": "whether you are from",
+            "C": "where I was from",
+            "D": "where was I from"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 151,
+        "question": "Both my brother and I are still _________ our old friends from Dover.",
+        "options": {
+            "A": "in place of",
+            "B": "in touch with",
+            "C": "in answer to",
+            "D": "in addition to"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 152,
+        "question": "Could you tell me who is _________ of the marketing department?",
+        "options": {
+            "A": "in charge",
+            "B": "in answer",
+            "C": "in agreement",
+            "D": "in comparison"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 153,
+        "question": "In _________ painting the whole house, he built a new garage.",
+        "options": {
+            "A": "charge of",
+            "B": "front of",
+            "C": "addition to",
+            "D": "touch with"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 154,
+        "question": "The children were telling stories _________ the fireplace.",
+        "options": {
+            "A": "in place of",
+            "B": "in touch with",
+            "C": "in addition to",
+            "D": "in front of"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 155,
+        "question": "The teacher asked me when World War II _________,",
+        "options": {
+            "A": "broke out",
+            "B": "broke in",
+            "C": "broke into",
+            "D": "broke down"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 156,
+        "question": "Joe was late because his car had _________,",
+        "options": {
+            "A": "broken out",
+            "B": "broken in",
+            "C": "broken down",
+            "D": "broken through"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 157,
+        "question": "Somebody _________ my best friend's house a week ago.",
+        "options": {
+            "A": "broke out",
+            "B": "broke into",
+            "C": "broke through",
+            "D": "broke down"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 158,
+        "question": "I'm sorry for _________ on your conversation but we have to leave soon,",
+        "options": {
+            "A": "breaking in",
+            "B": "breaking down",
+            "C": "breaking through",
+            "D": "breaking out"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 159,
+        "question": "He was caught _________ stealing money from my purse.",
+        "options": {
+            "A": "off guard",
+            "B": "sight of",
+            "C": "a cold",
+            "D": "red-handed"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 160,
+        "question": "Don't walk in the rain without your anorak or you'll _________ .",
+        "options": {
+            "A": "catch a cold",
+            "B": "catch sight of it",
+            "C": "catch your eye",
+            "D": "catch it off guard"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 161,
+        "question": "The children are looking ________ seeing their cousins from Mexico.",
+        "options": {
+            "A": "forward to",
+            "B": "after",
+            "C": "out",
+            "D": "over"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 162,
+        "question": "Peter's job interview turned ________ to be a total disaster.",
+        "options": {
+            "A": "up",
+            "B": "off",
+            "C": "out",
+            "D": "down"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 163,
+        "question": "I really wish you wouldn't comment ________ everything I do. It's really annoying.",
+        "options": {
+            "A": "with",
+            "B": "at",
+            "C": "for",
+            "D": "on"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 164,
+        "question": "The new project is under Mr. Benson's ________",
+        "options": {
+            "A": "supervision",
+            "B": "construction",
+            "C": "consideration",
+            "D": "repair"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 165,
+        "question": "Could you please inform me ________ the changes which have occurred in the new program?",
+        "options": {
+            "A": "on",
+            "B": "with",
+            "C": "for",
+            "D": "about"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 166,
+        "question": "My father was raised in great ________ so he doesn't like to waste money on silly things.",
+        "options": {
+            "A": "luxury",
+            "B": "poverty",
+            "C": "consideration",
+            "D": "supervision"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 167,
+        "question": "We were asked to pay ________.",
+        "options": {
+            "A": "with regard to",
+            "B": "at convenience",
+            "C": "in advance",
+            "D": "into consideration"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 168,
+        "question": "We'll discuss the matter in ________.",
+        "options": {
+            "A": "detail",
+            "B": "conclusion",
+            "C": "meantime",
+            "D": "fact"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 169,
+        "question": "We finally found tickets for the match so we will go ________.",
+        "options": {
+            "A": "at all",
+            "B": "all over",
+            "C": "all in all",
+            "D": "after all"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 170,
+        "question": "We can arrange an appointment ________.",
+        "options": {
+            "A": "with regard to",
+            "B": "into consideration",
+            "C": "at all",
+            "D": "at your convenience"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 171,
+        "question": "My sister helped me give ________ the invitations.",
+        "options": {
+            "A": "up",
+            "B": "out",
+            "C": "off",
+            "D": "away"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 172,
+        "question": "Take ________. There's no need to shout.",
+        "options": {
+            "A": "no notice",
+            "B": "part in",
+            "C": "it easy",
+            "D": "your time"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 173,
+        "question": "The doctor would like to look ________ your results one more time.",
+        "options": {
+            "A": "out",
+            "B": "up",
+            "C": "after",
+            "D": "over"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 174,
+        "question": "You ________ see a doctor about that cough.",
+        "options": {
+            "A": "had better",
+            "B": "would better",
+            "C": "could better",
+            "D": "should better"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 175,
+        "question": "What ________ between 5 and 6 o'clock last night?",
+        "options": {
+            "A": "had you done",
+            "B": "were you doing",
+            "C": "have you done",
+            "D": "had you been doing"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 176,
+        "question": "We have an upset stomach this morning. The fish we ate last night ________ have been fresh.",
+        "options": {
+            "A": "shouldn't",
+            "B": "wouldn't",
+            "C": "needn't",
+            "D": "couldn't"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 177,
+        "question": "You should ________ your hair cut. It has grown really long.",
+        "options": {
+            "A": "had",
+            "B": "having",
+            "C": "have",
+            "D": "to have"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 178,
+        "question": "My father said that he ________ about buying me a scooter.",
+        "options": {
+            "A": "would think",
+            "B": "will think",
+            "C": "is thinking",
+            "D": "has thought"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 179,
+        "question": "Can I have some more cake? Help yourself. You________ask.",
+        "options": {
+            "A": "can't",
+            "B": "needn't",
+            "C": "couldn't",
+            "D": "wouldn't"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 180,
+        "question": "Mandy________them not to touch the wire.",
+        "options": {
+            "A": "suggested",
+            "B": "apologized",
+            "C": "warned",
+            "D": "denied"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 181,
+        "question": "The electrician________a new camera at the bank right now.",
+        "options": {
+            "A": "installs",
+            "B": "was installing",
+            "C": "is installing",
+            "D": "had installed"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 182,
+        "question": "I________to sort out this situation once and for all.",
+        "options": {
+            "A": "will",
+            "B": "am going",
+            "C": "shall",
+            "D": "will be going"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 183,
+        "question": "As Liam________down the street, a flower pot fell on his head.",
+        "options": {
+            "A": "walks",
+            "B": "was walking",
+            "C": "is walking",
+            "D": "walking"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 184,
+        "question": "This time next week we________our final exam.",
+        "options": {
+            "A": "are taking",
+            "B": "take",
+            "C": "will be taking",
+            "D": "will have taken"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 185,
+        "question": "You can have________the cheese cake or the coconut tart.",
+        "options": {
+            "A": "either",
+            "B": "neither",
+            "C": "both",
+            "D": "none"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 186,
+        "question": "It's difficult for me ________ right now. I need more time to think about it.",
+        "options": {
+            "A": "decide",
+            "B": "deciding",
+            "C": "to be decided",
+            "D": "to decide"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 187,
+        "question": "Oliver speaks Japanese really ________.",
+        "options": {
+            "A": "well",
+            "B": "good",
+            "C": "better",
+            "D": "best"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 188,
+        "question": "He warned me ________ on that chair because it was broken.",
+        "options": {
+            "A": "not sitting",
+            "B": "never sitting",
+            "C": "don't sit",
+            "D": "not to sit"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 189,
+        "question": "There's ________ carrot cake left but not enough for all of your friends.",
+        "options": {
+            "A": "few",
+            "B": "little",
+            "C": "a few",
+            "D": "a little"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 190,
+        "question": "Did you know that ________ reptiles are cold-blooded?",
+        "options": {
+            "A": "all",
+            "B": "either",
+            "C": "neither",
+            "D": "none"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 191,
+        "question": "________ the train was late, he got to work on time.",
+        "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "In spite",
+            "D": "In spite of"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 192,
+        "question": "Dad was right! I really wish I ________ his advice!",
+        "options": {
+            "A": "take",
+            "B": "took",
+            "C": "had taken",
+            "D": "have taken"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "id": 193,
+        "question": "I couldn't fall asleep last night, so I tried ________ a book, but that didn't help either.",
+        "options": {
+            "A": "to read",
+            "B": "reading",
+            "C": "read",
+            "D": "to have read"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 194,
+        "question": "If I ________ you, I'd call him right now.",
+        "options": {
+            "A": "am",
+            "B": "have been",
+            "C": "will be",
+            "D": "were"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 195,
+        "question": "This exercise isn't as easy ________ it may seem.",
+        "options": {
+            "A": "as",
+            "B": "so",
+            "C": "than",
+            "D": "from"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 196,
+        "question": "Last Saturday they visited the village ________ their father was born.",
+        "options": {
+            "A": "which",
+            "B": "where",
+            "C": "whose",
+            "D": "when"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 197,
+        "question": "Give me a call when you ________ to the office.",
+        "options": {
+            "A": "go",
+            "B": "will go",
+            "C": "are going",
+            "D": "went"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "id": 198,
+        "question": "I'm a bit tired so I'd rather________in tonight.",
+        "options": {
+            "A": "staying",
+            "B": "am staying",
+            "C": "to stay",
+            "D": "stay"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "id": 199,
+        "question": "Unless you start taking your medication, you________feel better.",
+        "options": {
+            "A": "will",
+            "B": "won't",
+            "C": "would",
+            "D": "wouldn't"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "id": 200,
+        "question": "When I arrived at the airport, I realized that I________my ticket.",
+        "options": {
+            "A": "have forgotten",
+            "B": "forget",
+            "C": "had forgotten",
+            "D": "was forgetting"
+        },
+        "correct_answer": "C"
+    }
+]

@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image_url": "/images_signs/1.png",
+        "image_url": "images_signs/1.png",
         "options": {
             "A": "Always keep this door open.",
             "B": "Do not park in front of this entrance.",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "image_url": "/images_signs/2.png",
+        "image_url": "images_signs/2.png",
         "options": {
             "A": "Drinks cannot be ordered at the bar.",
             "B": "Use this machine when the bar is closed.",
@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "image_url": "/images_signs/3.png",
+        "image_url": "images_signs/3.png",
         "options": {
             "A": "The librarian needs to see your books before you go.",
             "B": "Make sure you take all your books with you.",
@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "image_url": "/images_signs/4.png",
+        "image_url": "images_signs/4.png",
         "options": {
             "A": "This room cannot be used at present.",
             "B": "This door must always be kept locked.",
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "image_url": "/images_signs/5.png",
+        "image_url": "images_signs/5.png",
         "options": {
             "A": "Supersaver tickets can be used every day except Fridays.",
             "B": "You need a special ticket to travel on a Friday.",
@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "image_url": "/images_signs/6.png",
+        "image_url": "images_signs/6.png",
         "options": {
             "A": "Do not forget to put your luggage outside your room.",
             "B": "Keep the corridor clear of luggage.",
@@ -67,7 +67,7 @@
     },
     {
         "id": 7,
-        "image_url": "/images_signs/7.png",
+        "image_url": "images_signs/7.png",
         "options": {
             "A": "Wait upstairs to see the nurse.",
             "B": "Go upstairs to make an appointment with the nurse.",
@@ -78,7 +78,7 @@
     },
     {
         "id": 8,
-        "image_url": "/images_signs/8.png",
+        "image_url": "images_signs/8.png",
         "options": {
             "A": "Do not touch the fruit before paying for it.",
             "B": "Damaged fruit must be paid for.",
@@ -89,7 +89,7 @@
     },
     {
         "id": 9,
-        "image_url": "/images_signs/9.png",
+        "image_url": "images_signs/9.png",
         "options": {
             "A": "Please be quiet while people are taking their examination.",
             "B": "Do not talk to the examiner.",
@@ -100,7 +100,7 @@
     },
     {
         "id": 10,
-        "image_url": "/images_signs/10.png",
+        "image_url": "images_signs/10.png",
         "options": {
             "A": "Bring your computer here for repairs.",
             "B": "We will not mend computers bought from other shops.",
@@ -111,7 +111,7 @@
     },
     {
         "id": 11,
-        "image_url": "/images_signs/11.png",
+        "image_url": "images_signs/11.png",
         "options": {
             "A": "The entrance to the bank is through the library.",
             "B": "The travel agency has moved its entrance.",
@@ -122,7 +122,7 @@
     },
     {
         "id": 12,
-        "image_url": "/images_signs/12.png",
+        "image_url": "images_signs/12.png",
         "options": {
             "A": "This list shows who has been chosen to go on the trip.",
             "B": "This list should be signed by people wanting to go on the trip.",
@@ -133,7 +133,7 @@
     },
     {
         "id": 13,
-        "image_url": "/images_signs/13.png",
+        "image_url": "images_signs/13.png",
         "options": {
             "A": "The new ticket office is now open.",
             "B": "There will be two ticket offices after 17 September.",
@@ -144,7 +144,7 @@
     },
     {
         "id": 14,
-        "image_url": "/images_signs/14.png",
+        "image_url": "images_signs/14.png",
         "options": {
             "A": "If you spend less than \u00a310, you cannot pay by credit card.",
             "B": "We prefer cash for large sales.",
@@ -155,7 +155,7 @@
     },
     {
         "id": 15,
-        "image_url": "/images_signs/15.png",
+        "image_url": "images_signs/15.png",
         "options": {
             "A": "Dogs must wait outside.",
             "B": "Dogs must walk with their owners.",
@@ -166,7 +166,7 @@
     },
     {
         "id": 16,
-        "image_url": "/images_signs/16.png",
+        "image_url": "images_signs/16.png",
         "options": {
             "A": "Everything is cheaper this week.",
             "B": "No extra charges next week.",
@@ -177,7 +177,7 @@
     },
     {
         "id": 17,
-        "image_url": "/images_signs/17.png",
+        "image_url": "images_signs/17.png",
         "options": {
             "A": "You can send your groceries from here.",
             "B": "You can store your groceries here.",
@@ -188,7 +188,7 @@
     },
     {
         "id": 18,
-        "image_url": "/images_signs/18.png",
+        "image_url": "images_signs/18.png",
         "options": {
             "A": "Cleaning now costs twice as much.",
             "B": "Cleaning costs are now cheaper.",
@@ -199,7 +199,7 @@
     },
     {
         "id": 19,
-        "image_url": "/images_signs/19.png",
+        "image_url": "images_signs/19.png",
         "options": {
             "A": "You must pay to park here.",
             "B": "If you use the train you can park here.",
@@ -210,7 +210,7 @@
     },
     {
         "id": 20,
-        "image_url": "/images_signs/20.png",
+        "image_url": "images_signs/20.png",
         "options": {
             "A": "You can buy your ticket during the journey.",
             "B": "You pay when you get off.",
@@ -221,7 +221,7 @@
     },
     {
         "id": 21,
-        "image_url": "/images_signs/21.png",
+        "image_url": "images_signs/21.png",
         "options": {
             "A": "Passengers are allowed to change their seats.",
             "B": "Passengers are allowed to eat snacks on the bus.",
@@ -232,7 +232,7 @@
     },
     {
         "id": 22,
-        "image_url": "/images_signs/22.png",
+        "image_url": "images_signs/22.png",
         "options": {
             "A": "Knock the door if you want to enter when it does not often.",
             "B": "Open the door when you want to enter.",
@@ -243,7 +243,7 @@
     },
     {
         "id": 23,
-        "image_url": "/images_signs/23.png",
+        "image_url": "images_signs/23.png",
         "options": {
             "A": "It's unsafe to go ahead because the area is flooding.",
             "B": "You will be drown if you turn around.",
@@ -254,7 +254,7 @@
     },
     {
         "id": 24,
-        "image_url": "/images_signs/24.png",
+        "image_url": "images_signs/24.png",
         "options": {
             "A": "This is dogs' play area.",
             "B": "Children can play with dogs in this area.",
@@ -265,7 +265,7 @@
     },
     {
         "id": 25,
-        "image_url": "/images_signs/25.png",
+        "image_url": "images_signs/25.png",
         "options": {
             "A": "People must wear long sleeve shirt and trousers in this area.",
             "B": "People must wear casual clothes in this area except long sleeve shirt and trousers.",
@@ -276,7 +276,7 @@
     },
     {
         "id": 26,
-        "image_url": "/images_signs/26.png",
+        "image_url": "images_signs/26.png",
         "options": {
             "A": "Pay attention to the kids when you are playing.",
             "B": "You have to slow down your speed and be careful when you are driving in this area.",
@@ -287,7 +287,7 @@
     },
     {
         "id": 27,
-        "image_url": "/images_signs/27.png ",
+        "image_url": "images_signs/27.png ",
         "options": {
             "A": "This area is for smoking only.",
             "B": "This area is for eating only.",
@@ -298,7 +298,7 @@
     },
     {
         "id": 28,
-        "image_url": "/images_signs/28.png",
+        "image_url": "images_signs/28.png",
         "options": {
             "A": "Only adults are permitted to drink alcohol on this site.",
             "B": "People under 18 are not allowed to drink alcohol on this site.",
@@ -309,7 +309,7 @@
     },
     {
         "id": 29,
-        "image_url": "/images_signs/29.png",
+        "image_url": "images_signs/29.png",
         "options": {
             "A": "People will give you a free drive when they see this sign.",
             "B": "Drivers won't stop when you want to hitchhike here.",
@@ -320,7 +320,7 @@
     },
     {
         "id": 30,
-        "image_url": "/images_signs/30.png",
+        "image_url": "images_signs/30.png",
         "options": {
             "A": "Parents and visitors are free to enter the school.",
             "B": "Visitors have to sign in at the office to enter the school.",
@@ -331,7 +331,7 @@
     },
     {
         "id": 31,
-        "image_url": "/images_signs/31.png",
+        "image_url": "images_signs/31.png",
         "options": {
             "A": "Students can use their cell phones outside the school campus.",
             "B": "Students are allowed to use cell phones in the school campus.",
@@ -342,7 +342,7 @@
     },
     {
         "id": 32,
-        "image_url": "/images_signs/32.png",
+        "image_url": "images_signs/32.png",
         "options": {
             "A": "There is no parking left in this area.",
             "B": "This parking zone is used only for buses.",
@@ -353,7 +353,7 @@
     },
     {
         "id": 33,
-        "image_url": "/images_signs/33.png",
+        "image_url": "images_signs/33.png",
         "options": {
             "A": "It won't hurt if you are falling down.",
             "B": "This area of work is safe.",
@@ -364,7 +364,7 @@
     },
     {
         "id": 34,
-        "image_url": "/images_signs/34.png",
+        "image_url": "images_signs/34.png",
         "options": {
             "A": "Drivers can park in this area after 6 PM on Saturday and Sunday.",
             "B": "Parking time in this area is from 7 AM to 6 PM Monday to Friday.",
@@ -375,7 +375,7 @@
     },
     {
         "id": 35,
-        "image_url": "/images_signs/35.png",
+        "image_url": "images_signs/35.png",
         "options": {
             "A": "Avoid smoking and naked lights because this area is highly flammable.",
             "B": "This is a non-smoker area.",
@@ -386,7 +386,7 @@
     },
     {
         "id": 36,
-        "image_url": "/images_signs/36.png",
+        "image_url": "images_signs/36.png",
         "options": {
             "A": "We cannot deliver papers over the weekend.",
             "B": "We plan to stop delivering papers five days from now.",
@@ -397,7 +397,7 @@
     },
     {
         "id": 37,
-        "image_url": "/images_signs/37.png",
+        "image_url": "images_signs/37.png",
         "options": {
             "A": "Accident patients are not admitted here.",
             "B": "The emergency department is closed.",
@@ -408,7 +408,7 @@
     },
     {
         "id": 38,
-        "image_url": "/images_signs/38.png",
+        "image_url": "images_signs/38.png",
         "options": {
             "A": "Family tickets save time.",
             "B": "Family tickets save money.",
@@ -419,7 +419,7 @@
     },
     {
         "id": 39,
-        "image_url": "/images_signs/39.png",
+        "image_url": "images_signs/39.png",
         "options": {
             "A": "Many people don't want a motorway.",
             "B": "Building the motorway starts today.",
@@ -430,7 +430,7 @@
     },
     {
         "id": 40,
-        "image_url": "/images_signs/40.png",
+        "image_url": "images_signs/40.png",
         "options": {
             "A": "You cannot bring your luggage into the dining room.",
             "B": "You must look after your things yourself.",

@@ -225,7 +225,7 @@ export default function Signs() {
         {/* HIỂN THỊ HÌNH ẢNH BIỂN BÁO */}
         <div style={{ textAlign: 'center' }}>
           <img 
-            src={currentQ.image_url} 
+            src={`${import.meta.env.BASE_URL}${currentQ.image_url}`}
             alt="Traffic Sign" 
             className="sign-image"
             // Xử lý lỗi nếu không tải được ảnh

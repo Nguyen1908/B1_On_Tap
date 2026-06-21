@@ -215,7 +215,7 @@ export default function Reading() {
   if (isLastQuestionInPassage && isLastPassage) nextButtonText = "Hoàn thành bài thi 🎉";
 
   return (
-    <div className="fade-in" style={{ maxWidth: '1200px', margin: '20px auto', padding: '0 20px' }}>
+    <div className="fade-in" style={{ maxWidth: '1500px', margin: '10px auto', padding: '0 10px' }}>
       
       {/* HEADER: TIẾN ĐỘ BÀI ĐỌC */}
       <div style={{ backgroundColor: '#fff', padding: '15px 25px', borderRadius: '12px', boxShadow: '0 4px 15px rgba(0,0,0,0.05)', marginBottom: '20px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
@@ -230,7 +230,7 @@ export default function Reading() {
         {/* CỘT TRÁI: NỘI DUNG BÀI ĐỌC */}
         <div className="custom-scrollbar" style={{ flex: '1.2', backgroundColor: '#fff', padding: '30px', borderRadius: '16px', boxShadow: '0 4px 15px rgba(0,0,0,0.05)', height: '70vh', overflowY: 'auto' }}>
           <h2 style={{ color: '#0f172a', marginBottom: '20px', fontSize: '24px' }}>{currentPassage.title}</h2>
-          <div style={{ color: '#334155', fontSize: '16px', lineHeight: '1.8', whiteSpace: 'pre-line', textAlign: 'justify' }}>
+          <div style={{ color: '#334155', fontSize: '14px', lineHeight: '1.8', whiteSpace: 'pre-line', textAlign: 'justify' }}>
             {currentPassage.passage_text}
           </div>
         </div>
@@ -268,8 +268,8 @@ export default function Reading() {
             })}
           </div>
 
-          <div className="custom-scrollbar" style={{ flex: '1', overflowY: 'auto', paddingRight: '10px' }}>
-            <p style={{ fontSize: '18px', fontWeight: 'bold', color: '#0f172a', marginBottom: '20px' }}>
+          <div className="custom-scrollbar" style={{ flex: '1', overflowY: 'auto', paddingRight: '5px' }}>
+            <p style={{ fontSize: '14px', fontWeight: 'bold', color: '#0f172a', marginBottom: '20px' }}>
               {currentQuestionIndex + 1}. {currentQ.question}
             </p>
 
@@ -293,7 +293,7 @@ export default function Reading() {
                     // Hàm click vẫn gửi lên opt.key (đáp án thật) để xử lý logic chấm điểm chính xác
                     onClick={() => handleSelectOption(currentQ.global_id, opt.key, currentQ.correct_answer)}
                     style={{
-                      padding: '14px', textAlign: 'left', backgroundColor: bgColor,
+                      padding: '12px', textAlign: 'left', backgroundColor: bgColor,
                       color: textColor, border: borderStyle, fontSize: '15px',
                       cursor: qProgress.isSolved ? 'default' : 'pointer'
                     }}
@@ -312,7 +312,7 @@ export default function Reading() {
                 className="nav-btn"
                 onClick={handlePrevPassage} 
                 disabled={currentPassageIndex === 0}
-                style={{ padding: '12px 15px', cursor: currentPassageIndex === 0 ? 'not-allowed' : 'pointer', opacity: currentPassageIndex === 0 ? 0.5 : 1 }}
+                style={{ padding: '5px 12px', cursor: currentPassageIndex === 0 ? 'not-allowed' : 'pointer', opacity: currentPassageIndex === 0 ? 0.5 : 1 }}
                 title="Quay lại Bài đọc trước đó"
               >
                 ⏮️ Bài đọc trước
@@ -322,7 +322,7 @@ export default function Reading() {
                 className="nav-btn"
                 onClick={handlePrevQuestion} 
                 disabled={currentQuestionIndex === 0}
-                style={{ padding: '12px 15px', cursor: currentQuestionIndex === 0 ? 'not-allowed' : 'pointer', opacity: currentQuestionIndex === 0 ? 0.5 : 1 }}
+                style={{ padding: '5px 12px', cursor: currentQuestionIndex === 0 ? 'not-allowed' : 'pointer', opacity: currentQuestionIndex === 0 ? 0.5 : 1 }}
                 title="Quay lại Câu hỏi trước đó trong bài này"
               >
                 ← Câu trước
@@ -333,7 +333,7 @@ export default function Reading() {
               className={`nav-btn ${qProgress.isSolved ? 'primary' : ''}`}
               onClick={handleNextAction} 
               disabled={!qProgress.isSolved}
-              style={{ padding: '12px 20px', cursor: !qProgress.isSolved ? 'not-allowed' : 'pointer', opacity: !qProgress.isSolved ? 0.5 : 1 }}
+              style={{ padding: '5px 12px', cursor: !qProgress.isSolved ? 'not-allowed' : 'pointer', opacity: !qProgress.isSolved ? 0.5 : 1 }}
             >
               {nextButtonText}
             </button>

@@ -260,6 +260,11 @@ export default function Writing() {
             className="writing-input"
             value={inputText}
             onChange={(e) => setInputText(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' && inputText.trim() !== '' && !qProgress.isSolved) {
+                handleCheckAnswer();
+              }
+            }}
             disabled={qProgress.isSolved} 
             placeholder="Nhập đáp án..."
             style={{ 

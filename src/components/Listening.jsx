@@ -91,23 +91,28 @@ export default function Listening() {
 
   // --- XỬ LÝ NÚT BẤM (TRẮC NGHIỆM & TRUE/FALSE) ---
   const handleSelectOption = (globalId, selectedKey, correctKey) => {
-    const currentProg = userProgress[globalId] || { isSolved: false };
+    const currentProg = userProgress[globalId] || { selectedWrong: [], isSolved: false };
     if (currentProg.isSolved) return;
 
     const isCorrect = (selectedKey.toLowerCase() === correctKey.toLowerCase());
-    
     let firstAttempt = currentProg.firstAttemptResult;
     if (!firstAttempt) firstAttempt = isCorrect ? 'correct' : 'wrong';
 
-    setUserProgress({
-      ...userProgress,
-      [globalId]: {
-        isSolved: true,
-        firstAttemptResult: firstAttempt,
-        selectedKey: selectedKey,
-        correctKey: correctKey
-      }
-    });
+    if (isCorrect) {
+      setUserProgress({
+        ...userProgress,
+        [globalId]: { isSolved: true, firstAttemptResult: firstAttempt }
+      });
+    } else {
+      setUserProgress({
+        ...userProgress,
+        [globalId]: {
+          ...currentProg,
+          selectedWrong: [...(currentProg.selectedWrong || []), selectedKey],
+          firstAttemptResult: firstAttempt
+        }
+      });
+    }
   };
 
   // --- XỬ LÝ GÕ CHỮ (CLOZE TEXT) ---
@@ -154,7 +159,7 @@ export default function Listening() {
       setCurrentTaskIndex(nextIndex);
       setHighestReachedTask(prev => Math.max(prev, nextIndex));
     } else {
-      setStep('result');
+      setStep('setup'); // thay vì setStep('result')
     }
   };
 
@@ -233,23 +238,8 @@ export default function Listening() {
 
   // --- RENDER MÀN HÌNH KẾT QUẢ ---
   if (step === 'result') {
-    const score = calculateScore();
-    const total = Object.keys(userProgress).length; // Tính tổng dựa trên số câu hỏi/chỗ trống đã lưu
-    const percentage = total > 0 ? Math.round((score / total) * 100) : 0;
-
-    return (
-      <div className="fade-in" style={{ padding: '40px', maxWidth: '500px', margin: '40px auto', backgroundColor: '#fff', borderRadius: '16px', boxShadow: '0 10px 25px rgba(0,0,0,0.08)', textAlign: 'center' }}>
-        <h1 style={{ fontSize: '48px', margin: '0' }}>{percentage >= 80 ? '🎉' : '👏'}</h1>
-        <h2 style={{ color: '#1e293b', marginTop: '10px' }}>Hoàn thành bài thi Listening!</h2>
-        <div style={{ margin: '30px 0', padding: '20px', backgroundColor: '#f8fafc', borderRadius: '12px' }}>
-          <p style={{ fontSize: '18px', color: '#64748b', margin: '0 0 10px 0' }}>Tổng số câu đúng (Lần đầu tiên):</p>
-          <p style={{ fontSize: '42px', fontWeight: 'bold', color: '#4f46e5', margin: '0' }}>{score}</p>
-        </div>
-        <button className="btn-primary" onClick={() => setStep('setup')} style={{ padding: '12px 30px', fontSize: '16px', fontWeight: 'bold' }}>
-          Làm bài khác
-        </button>
-      </div>
-    );
+    setStep('setup');
+    return null;
   }
 
   // --- RENDER MÀN HÌNH QUIZ CHÍNH ---
@@ -288,7 +278,7 @@ export default function Listening() {
             let bgColor = '#f8fafc'; let textColor = '#334155'; let borderStyle = '1px solid #e2e8f0';
             if (qProg.isSolved && opt.key === q.correct_answer) {
               bgColor = '#10b981'; textColor = '#fff'; borderStyle = '1px solid #059669';
-            } else if (qProg.isSolved && qProg.selectedKey === opt.key && opt.key !== q.correct_answer) {
+            } else if ((qProg.selectedWrong || []).includes(opt.key)) {
               bgColor = '#ef4444'; textColor = '#fff'; borderStyle = '1px solid #dc2626';
             }
             const displayLabel = showLabel ? String.fromCharCode(65 + idx) : opt.key;
@@ -461,7 +451,7 @@ export default function Listening() {
                             let bgColor = '#f8fafc'; let textColor = '#334155'; let borderStyle = '1px solid #cbd5e1';
                             if (qProg.isSolved && opt === tf.answer) {
                               bgColor = '#10b981'; textColor = '#fff'; borderStyle = '1px solid #059669';
-                            } else if (qProg.isSolved && qProg.selectedKey === opt && opt !== tf.answer) {
+                            } else if ((qProg.selectedWrong || []).includes(opt)) {
                               bgColor = '#ef4444'; textColor = '#fff'; borderStyle = '1px solid #dc2626';
                             }
                             return (

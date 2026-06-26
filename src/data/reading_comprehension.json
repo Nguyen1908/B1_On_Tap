@@ -75,7 +75,7 @@
                     "C": "She is going to be an animal doctor.",
                     "D": "She finished studying a year ago."
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 2,
@@ -86,7 +86,7 @@
                     "C": "she volunteered for several animal organisations.",
                     "D": "she worked for Archelon as part of her training."
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             },
             {
                 "id": 3,
@@ -97,7 +97,7 @@
                     "C": "They try to look after the turtles.",
                     "D": "They try to catch the turtles."
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 4,
@@ -108,7 +108,7 @@
                     "C": "having no water was a big problem.",
                     "D": "she enjoyed the nights most."
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             },
             {
                 "id": 5,
@@ -119,7 +119,7 @@
                     "C": "a girl who has been volunteering abroad in her summer holidays for year",
                     "D": "a girl who had wanted to help turtles all her life"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             }
         ]
     },
@@ -137,7 +137,7 @@
                     "C": "stop the UK from throwing away so much food",
                     "D": "reduce the amount of food the UK produces"
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 2,
@@ -148,7 +148,7 @@
                     "C": "the amount of food wasted in Europe",
                     "D": "the fact that some people don't have food"
                 },
-                "correct_answer": ""
+                "correct_answer": "D"
             },
             {
                 "id": 3,
@@ -159,7 +159,7 @@
                     "C": "They sometimes sell out-of-date food.",
                     "D": "They do not avoid food waste."
                 },
-                "correct_answer": ""
+                "correct_answer": "D"
             },
             {
                 "id": 4,
@@ -170,7 +170,7 @@
                     "C": "They should only feed those who can't pay.",
                     "D": "The food does not taste as good as fresh products."
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 5,
@@ -181,7 +181,7 @@
                     "C": "I tried eating at one of The Real Junk Food project's cafes but I wouldn't recommend it.",
                     "D": "It's a great idea but, unfortunately, it is not supported by many people."
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             }
         ]
     },
@@ -199,7 +199,7 @@
                     "C": "he felt anxious about what was going to happen next.",
                     "D": "he needed to get a good sleep as it was the middle of the night"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 2,
@@ -210,7 +210,7 @@
                     "C": "Because he expected the pilot to be unfriendly.",
                     "D": "Because he did not know where to go."
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             },
             {
                 "id": 3,
@@ -232,7 +232,7 @@
                     "C": "Many of the animals are being hunted.",
                     "D": "The wild animals often attack people."
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             },
             {
                 "id": 5,
@@ -243,7 +243,7 @@
                     "C": "“Visiting Africa does not differ much from a day trip to the zoo. The conditions and animal facilities are almost the same.”",
                     "D": "“Unfortunately tourists are once again taking over beautiful Africa. They are ruining the landscape and threatening the animals’ survival.”"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             }
         ]
     }

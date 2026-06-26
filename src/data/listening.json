@@ -186,7 +186,7 @@
                     "B": "He goes by Nick.",
                     "C": "His friends call him Nate."
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 2,
@@ -196,7 +196,7 @@
                     "B": "His hometown is Brownburg.",
                     "C": "He's originally from Brownsville."
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 3,
@@ -206,7 +206,7 @@
                     "B": "He's in his mid-twenties.",
                     "C": "He's in his late twenties."
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             },
             {
                 "id": 4,
@@ -216,7 +216,7 @@
                     "B": "They were introduced at a party.",
                     "C": "He saw her in a language class."
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 5,
@@ -226,7 +226,7 @@
                     "B": "is going to be a negative influence on her",
                     "C": "charges too much money for lessons"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             }
         ]
     },
@@ -243,7 +243,7 @@
                     "B": "animals",
                     "C": "world dancers"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 2,
@@ -253,7 +253,7 @@
                     "B": "He's wearing green slacks.",
                     "C": "He has on a blue jacket."
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 3,
@@ -263,7 +263,7 @@
                     "B": "She's famous for her cooking skills.",
                     "C": "She makes a living selling tennis shoes."
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             },
             {
                 "id": 4,
@@ -273,7 +273,7 @@
                     "B": "heavy",
                     "C": "small"
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 5,
@@ -283,7 +283,7 @@
                     "B": "He's standing by a table.",
                     "C": "He's eating some refreshments."
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             }
         ]
     },
@@ -300,7 +300,7 @@
                     "B": "It's Ronda.",
                     "C": "The woman's name is Rachel."
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 2,
@@ -310,7 +310,7 @@
                     "B": "Utah",
                     "C": "New York"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 3,
@@ -320,7 +320,7 @@
                     "B": "She works at a school.",
                     "C": "She has a job at a bank."
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 4,
@@ -330,7 +330,7 @@
                     "B": "She works out four times a week",
                     "C": "She exercises five times a week."
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 5,
@@ -340,7 +340,7 @@
                     "B": "The woman gives the man her phone number.",
                     "C": "The woman knows a lot about science."
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             }
         ]
     },

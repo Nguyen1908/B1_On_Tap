@@ -333,7 +333,7 @@
                     "C": "which",
                     "D": "where"
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 2,
@@ -343,7 +343,7 @@
                     "C": "temperature",
                     "D": "condition"
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             },
             {
                 "id": 3,
@@ -353,7 +353,7 @@
                     "C": "another",
                     "D": "other"
                 },
-                "correct_answer": ""
+                "correct_answer": "D"
             },
             {
                 "id": 4,
@@ -363,7 +363,7 @@
                     "C": "resting",
                     "D": "taking"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 5,
@@ -373,7 +373,7 @@
                     "C": "ago",
                     "D": "after"
                 },
-                "correct_answer": ""
+                "correct_answer": "C"
             },
             {
                 "id": 6,
@@ -383,7 +383,7 @@
                     "C": "ought",
                     "D": "might"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 7,
@@ -393,7 +393,7 @@
                     "C": "unless",
                     "D": "since"
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             },
             {
                 "id": 8,
@@ -403,7 +403,7 @@
                     "C": "model",
                     "D": "traditional"
                 },
-                "correct_answer": ""
+                "correct_answer": "D"
             },
             {
                 "id": 9,
@@ -413,7 +413,7 @@
                     "C": "gave",
                     "D": "got"
                 },
-                "correct_answer": ""
+                "correct_answer": "B"
             },
             {
                 "id": 10,
@@ -423,7 +423,7 @@
                     "C": "sums",
                     "D": "sizes"
                 },
-                "correct_answer": ""
+                "correct_answer": "A"
             }
         ]
     }

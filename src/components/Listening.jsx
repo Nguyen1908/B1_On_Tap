@@ -340,7 +340,17 @@ export default function Listening() {
           <div style={{ marginBottom: '30px', padding: '20px', backgroundColor: '#f8fafc', borderRadius: '12px', border: '1px solid #e2e8f0', textAlign: 'center' }}>
             <h4 style={{ margin: '0 0 15px 0', color: '#475569' }}>🎧 Trình phát Audio</h4>
             {currentTask.audio ? (
-              <audio controls src={currentTask.audio} style={{ width: '100%', outline: 'none' }}>
+              <audio 
+                controls 
+                // Nối BASE_URL vào trước đường dẫn file audio
+                src={`${import.meta.env.BASE_URL}${currentTask.audio}`} 
+                style={{ width: '100%', outline: 'none' }}
+                // Bắt lỗi nếu file audio không tải được (tương tự onError của img)
+                onError={(e) => {
+                  console.error("Lỗi: Không thể tải file audio tại", e.target.src);
+                  // Với audio thì không có placeholder hình ảnh, ta chỉ log ra hoặc có thể ẩn đi
+                }}
+              >
                 Trình duyệt của bạn không hỗ trợ thẻ audio.
               </audio>
             ) : (

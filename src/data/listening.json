@@ -1,7 +1,7 @@
 [
     {
         "id": 2,
-        "audio": null,
+        "audio": "mp3_listening/Text 02.mp3",
         "type": "cloze_text_truefalse",
         "truefalse": [
             {"id": 1, "question": "Tatiana can remember 75 of 100 names and faces after 15 minutes.", "answer": "False"},
@@ -121,7 +121,7 @@
     },
     {
         "id": 24,
-        "audio": null,
+        "audio": "mp3_listening/Text 24.mp3",
         "type": "cloze_text",
         "passage_text": "Ella\nWell, I’d like to be a vet. I have three pets – two rabbits and a (1)_______named Princess. I love taking care of them, so I think I’ll be a good vet. I asked my mom if I could have a (2)________, but she said no. When I’m a vet, I want to have two dogs and a horse, too.\nJoe\nI can already play the piano, but now I’m learning to play the electric guitar. I love it! I’d love to be in a rock band. I want to play (3)_______guitar and write all the songs. I’m thinking of asking my friends if they want to start a band.\nJuliet\nIt’s an important year for me at school this year. I’m taking nine classes. I’m going to study hard and get really good (4)_______on all my tests, so I can go to college. But I’m still going to have fun. I’m seeing my friends tonight!\nHannah\nI’d like to go (5)________to work next year. I worked in a bank before I had children, but I don’t want to do that anymore. I hope to go back to college and study to be a (6)________school teacher. I’ve worked part-time at Ella and Joe’s school for a few years now, and I really enjoy it.\nDavid\nI’ve been in the same job for 20 years. I’m an (7)_________for a big company, and I visit all the company offices regularly. I am thinking of changing jobs, because I’m tired of traveling all the time. Actually, I’d like to start my own business.\nEdie\nLast year I joined a travel club for people my age. It’s (8)________! I really enjoy meeting new people and seeing new places. I’m looking (9)_______to going on a world cruise with my friend, Margaret. I met her on the last cruise. We’re going to the (10)_______. I can’t wait!",
         "answers": [
@@ -139,7 +139,7 @@
     },
     {
         "id": 25,
-        "audio": null,
+        "audio": "mp3_listening/Text 24.mp3",
         "type": "cloze_text",
         "passage_text": "Ben\nThe best thing for me is my dog, Jasper. He’s a black Labrador and he’s great. I got him when he was a puppy, and I was nine. So, we’ve grown up together. My uncle gave him to me for my ninth birthday, so he didn’t cost anything. What’s he like? Well, he’s very (1)_______. He’s also a bit crazy, and great fun to play with. He’s much more (2)_______than I am. I’m always tired after taking him for a walk.\nMary\nOoh, there are lots of things I like that don’t cost anything, I’m sure. Let’s see…sunsets. That’s one thing I love. My house is on a hill, and in the evening when I look out of my kitchen window, there’s sometimes a beautiful sunset. It makes washing the (3)_______much easier! I also love getting phone calls and cards from my family. I suppose they cost something, but not to me! But (4)_______, the best thing of all is my first grandchild. He’s the most beautiful baby boy I’ve ever seen!\nMichael\nI work in the city, so the best thing for me is being in the (5)________. I don’t care what the weather is like. Even if it’s rainy and windy, it’s great to be outside. It’s much quieter than the city, so there’s time to think. Actually, the countryside costs money, because I have to drive there first! Ok, so the next best thing is going for a walk in the park near my place after work. It’s a nice park with lots of trees and a small lake. It’s the most (6)________way to end the day.\nLaura\nUm, well, I think the best thing for me is playing with my (7)______sister, Abby. She’s almost 4, so I’m much older than her. I also have a brother, Dominic. He’s 6. But he doesn’t like the games I like, so he isn’t as much fun to play with. Abby’s always waiting for me when I come home from school. She thinks I’m the best person in the (8)_______world. We usually play hospital or school. I’m the doctor or teacher, of course, because I’m the biggest.\nKelly\n(9)________, the best thing for me is being with my boyfriend, Dan. We don’t have to go out or spend money. I love just going for a walk and chatting with him. He makes me laugh all the time. He’s the funniest person I know. And the nicest friend. We’ve been together for nearly a year, and our (10)________just gets better and better. I think I’m really lucky.",
         "answers": [
@@ -157,7 +157,7 @@
     },
     {
         "id": 26,
-        "audio": null,
+        "audio": "mp3_listening/Text 26.mp3",
         "type": "cloze_text",
         "passage_text": "LEAVING HOME – IAN MITCHELL\nMy daughter Evie is living in New York now. She went there (1)________months ago, and I’m really worried about her. She says she’s having a great time, but she’s still only (2)________, and I just think New York’s such a (3)________place for a young woman. She shouldn’t live so far away from home. Her mother went with her to help her look for somewhere to live. But I didn’t go. I don’t like New York. I don’t like big cities.\nWhy did she have to go there, anyway? I don’t understand. She says she wants to be a dancer, and she’s taking some kind of class, a ballet class or (4)_________. But ballet isn’t a real job, and you don’t make much money being a dancer, do you? She’s a smart girl. I think she should go to (5)_________.\nShe’s living in an (6)________there in New York by herself – she’s on her own, and I don’t like that at all! (7)________, she has a boyfriend. We’ve never met him – Michael, I think his name is. He doesn’t have a job. But Evie works hard, though. She works on the weekends as a (8)_________in a restaurant. I just hope it’s a nice place.\nShe calls home sometimes, but not a lot, and we call her, but usually her cell phone’s turned off or she doesn’t answer. When I do (9)________to talk to her, she just tells us that we should get a (10)________so she can text us. She says we shouldn’t worry. How can we not worry? We’re her parents, we miss her, and of course we worry. Sometimes I can’t sleep at night. She really should come home more often.",
         "answers": [
@@ -175,7 +175,7 @@
     },
     {
         "id": 46,
-        "audio": null,
+        "audio": "mp3_listening/Text 46.mp3",
         "type": "question",
         "questions": [
             {
@@ -232,7 +232,7 @@
     },
     {
         "id": 47,
-        "audio": null,
+        "audio": "mp3_listening/Text 47.mp3",
         "type": "question",
         "questions": [
             {
@@ -289,7 +289,7 @@
     },
     {
         "id": 48,
-        "audio": null,
+        "audio": "mp3_listening/Text 48.mp3",
         "type": "question",
         "questions": [
             {
@@ -346,7 +346,7 @@
     },
     {
         "id": 64,
-        "audio": null,
+        "audio": "mp3_listening/Text 64.mp3",
         "type": "truefalse",
         "questions": [
             {
@@ -398,7 +398,7 @@
     },
     {
         "id": 65,
-        "audio": null,
+        "audio": "mp3_listening/Text 65.mp3",
         "type": "truefalse",
         "questions": [
             {
@@ -450,7 +450,7 @@
     },
     {
         "id": 66,
-        "audio": null,
+        "audio": "mp3_listening/Text 66.mp3",
         "type": "truefalse",
         "questions": [
             {
